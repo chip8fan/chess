@@ -1,0 +1,1717 @@
+[Event "Texas Norm Swiss 2025"]
+[Site "Texas Chess Center Houston"]
+[Date "2025.10.08"]
+[Round "1"]
+[White "Tanenbaum, Zachary"]
+[Black "Guntaka, Aayansh"]
+[Result "1-0"]
+[WhiteElo "2319"]
+[WhiteTitle "FM"]
+[WhiteFideId "2060850"]
+[BlackElo "2132"]
+[BlackFideId "30949521"]
+[TimeControl "G/90;+30"]
+[Termination "Checkmate"]
+[Board "11"]
+[Variant "Standard"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+[StudyName "Texas Norm Swiss 2025"]
+[ChapterName "Tanenbaum - Guntaka, 1-0 (1)"]
+[ChapterURL "https://lichess.org/study/k2ZdeYAS/GsSpRVoN"]
+[Annotator "https://lichess.org/@/TexasChessCenter"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5 8. Ne4 Qc7 9. f4 Qb6 10. c4 Bb4+ 11. Ke2 f5 12. exf6 Nxf6 13. Be3 Qd8 14. Nd6+ Bxd6 15. Qxd6 Bb7 16. Kd1 c5 17. Qxc5 Kf7 18. Be2 d5 19. Kc2 Ne4 20. Qd4 Nd6 21. Rad1 Nf5 22. Qe5 Nxe3+ 23. Qxe3 Qf6 24. Kb1 Rhd8 25. Rhe1 d4 26. Qh3 Be4+ 27. Bd3 Bxd3+ 28. Qxd3 Rab8 29. Re4 a5 30. Rxd4 a4 31. Qc3 Rb7 32. R1d3 Rxd4 33. Qxd4 Qg6 34. g3 a3 35. b3 Qh5 36. Qe4 Re7 37. Rd2 Qc5 38. Kc2 g6 39. Qe5 Qc6 40. g4 Rd7 41. Rxd7+ Qxd7 42. Qh8 Qc6 43. Qxh7+ Kf6 44. Qh8+ Kf7 45. Qd4 Qg2+ 46. Qd2 Qxg4 47. Kc3 Qf3+ 48. Kb4 Qa8 49. Qd7+ Kf6 50. Qd4+ Kf7 51. c5 Qa7 52. Qd6 Qb7+ 53. Kxa3 Qa8+ 54. Kb4 Qb7+ 55. Ka5 Qa7+ 56. Kb5 Qb7+ 57. Qb6 Qd7+ 58. Ka6 Qd3+ 59. Qb5 Qc2 60. c6 Qxa2+ 61. Kb7 Qg2 62. Qc4 Ke7 63. Kb8 Qf2 64. Qb4+ Kf7 65. c7 Qc2 66. c8=Q Qxc8+ 67. Kxc8 Ke8 68. Qb7 Kf8 69. Qh7 e5 70. fxe5 Ke8 71. e6 g5 72. Qf7# 1-0
+
+
+
+
+
+[Event "Texas Norm Swiss 2025"]
+[Site "Texas Chess Center Houston"]
+[Date "2025.10.09"]
+[Round "2"]
+[White "Santiago, Avila Pavas"]
+[Black "Tanenbaum, Zachary"]
+[Result "1-0"]
+[WhiteElo "2490"]
+[WhiteTitle "GM"]
+[WhiteFideId "4437128"]
+[BlackElo "2319"]
+[BlackTitle "FM"]
+[BlackFideId "2060850"]
+[TimeControl "G/90;+30"]
+[Termination "Resignation"]
+[Board "3"]
+[Variant "Standard"]
+[ECO "C45"]
+[Opening "Scotch Game: Classical Variation, Intermezzo Variation"]
+[StudyName "Texas Norm Swiss 2025"]
+[ChapterName "Santiago - Tanenbaum, 1-0 (2)"]
+[ChapterURL "https://lichess.org/study/k2ZdeYAS/TyLAUC4z"]
+[Annotator "https://lichess.org/@/TexasChessCenter"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qd2 dxc6 7. Nc3 Bd4 8. Bd3 Be6 9. O-O Ne7 10. Ne2 Bb6 11. Qf4 Qxf4 12. Nxf4 Bd7 13. Re1 Ng6 14. Nxg6 hxg6 15. Be3 Bxe3 16. Rxe3 Ke7 17. f4 Rad8 18. Rf1 c5 19. Rg3 Kf8 20. Rg5 b6 21. Rd5 Ke7 22. b3 Bc8 23. Rxd8 Rxd8 24. Kf2 a5 25. Ke3 Bd7 26. a4 Bc6 27. g3 Bd7 28. Rf2 Bh3 29. Rd2 Bg4 30. Be2 Bd7 31. h4 Re8 32. Bc4 Bg4 33. Bb5 Rd8 34. Rxd8 Kxd8 35. Be2 Bd7 36. g4 Ke7 37. f5 gxf5 38. exf5 f6 39. Kf4 Kd6 40. g5 fxg5+ 41. hxg5 c6 42. f6 gxf6 43. gxf6 b5 44. c4 bxa4 45. bxa4 Be8 46. Kf5 Bf7 47. Bd3 Be6+ 48. Kg6 Ke5 49. f7 Bxf7+ 50. Kxf7 Kd4 51. Be2 Kc3 52. Ke6 Kb4 53. Kd6 Kxa4 54. Kxc5 Kb3 55. Bd1+ Kc3 56. Ba4 Kd3 57. Bxc6 1-0
+
+
+
+[Event "Texas Norm Swiss 2025"]
+[Site "Texas Chess Center Houston"]
+[Date "2025.10.10"]
+[Round "3"]
+[White "Tanenbaum, Zachary"]
+[Black "Takahashi, Michael"]
+[Result "1-0"]
+[WhiteElo "2319"]
+[WhiteTitle "FM"]
+[WhiteFideId "2606850"]
+[BlackElo "2110"]
+[BlackFideId "30911648"]
+[TimeControl "G/90;+30"]
+[Termination "Resignation"]
+[Board "8"]
+[Variant "Standard"]
+[ECO "B75"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations"]
+[StudyName "Texas Norm Swiss 2025"]
+[ChapterName "Tanenbaum - Takahashi, 1-0 (3)"]
+[ChapterURL "https://lichess.org/study/k2ZdeYAS/9UxBDmMB"]
+[Annotator "https://lichess.org/@/TexasChessCenter"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 h5 8. Qd2 a6 9. Be2 b5 10. a4 b4 11. Na2 a5 12. c3 bxc3 13. Nxc3 O-O 14. O-O Bb7 15. Rac1 Na6 16. Rfd1 Kh7 17. Ndb5 Nb4 18. Qe1 Nd7 19. Qf2 Rc8 20. Bg5 Bh6 21. Bxh6 Kxh6 22. Kh1 Kg7 23. Rd2 Qb6 24. Qh4 Qe3 25. Rcd1 Nf6 26. Nd4 e6 27. Qg3 Rcd8 28. Nb3 h4 29. Qe1 Qb6 30. Qxh4 Rh8 31. Qg3 Nh5 32. Qg4 Nf6 33. Qg3 Nh5 34. Qe1 d5 35. e5 Qc7 36. Bf1 Nf4 37. Qe3 g5 38. Nb5 Qb8 39. Nxa5 Ba8 40. Nb3 Rh5 41. Kg1 Nc6 42. Re1 Rdh8 43. h3 Ng6 44. Rde2 Ncxe5 45. Qc3 Rc8 46. Qe3 Nc4 47. Qd4+ e5 48. Qa7 Qxa7+ 49. Nxa7 Rb8 50. Nb5 Bc6 51. Rc2 Bxb5 52. axb5 Rxb5 53. Bxc4 dxc4 54. Nd2 Rh8 55. Nxc4 Rc8 56. Rec1 Nf4 57. Kf1 Nd5 58. Nd6 Rxc2 59. Rxc2 Rb4 60. Kf2 Nf4 61. Nc4 f6 62. g3 Nxh3+ 63. Ke3 Kg6 64. Kd3 Ng1 65. Kc3 Rb8 66. Rf2 Nh3 67. Rh2 g4 68. Ne3 Rc8+ 69. Kb4 Rb8+ 70. Kc4 Rc8+ 71. Kd5 Rd8+ 72. Kc6 Ng5 73. fxg4 Nf3 74. Rf2 Nd4+ 75. Kb7 Nb3 76. Rc2 Rd3 77. Rc3 Rxc3 78. bxc3 Nc5+ 79. Kc6 Ne4 80. c4 Nxg3 81. c5 Ne4 82. Kb6 Kg5 83. c6 Nd6 84. c7 Kf4 85. Nf5 1-0
+
+
+
+[Event "Texas Norm Swiss 2025"]
+[Site "Texas Chess Center Houston"]
+[Date "2025.10.10"]
+[Round "4"]
+[White "Winchell, Barrett"]
+[Black "Tanenbaum, Zachary"]
+[Result "0-1"]
+[WhiteElo "2113"]
+[WhiteFideId "30904544"]
+[BlackElo "2319"]
+[BlackTitle "FM"]
+[BlackFideId "2060850"]
+[TimeControl "G/90;+30"]
+[Termination "Resignation"]
+[Board "6"]
+[Variant "Standard"]
+[ECO "A09"]
+[Opening "Réti Opening: Advance Variation"]
+[StudyName "Texas Norm Swiss 2025"]
+[ChapterName "Winchell - Tanenbaum, 0-1 (4)"]
+[ChapterURL "https://lichess.org/study/k2ZdeYAS/E1PtRDVV"]
+[Annotator "https://lichess.org/@/TexasChessCenter"]
+
+1. Nf3 d5 2. c4 d4 3. b4 g5 4. Qa4+ c6 5. h3 h6 6. g3 Bg7 7. d3 e5 8. Nbd2 Ne7 9. Bg2 O-O 10. Bb2 Be6 11. Qc2 f5 12. O-O Nd7 13. Nb3 Ng6 14. Rae1 Qc7 15. e3 dxe3 16. Rxe3 Rae8 17. Rfe1 f4 18. R3e2 fxg3 19. fxg3 Bxh3 20. Bxh3 Rxf3 21. Re3 Ref8 22. Bg2 e4 23. Bxf3 exf3 24. Kf2 Nde5 25. Re4 Qd7 26. d4 Qh3 27. Nd2 Qg2+ 28. Ke3 Qxg3 29. Rf1 Nf4 30. dxe5 f2+ 31. Nf3 Ng2+ 32. Kd2 Qxf3 33. Qd3 Qf5 34. Bd4 Nf4 35. Qc2 Rd8 36. Kc1 Qh3 37. Qd1 Ne6 38. Rxf2 Nxd4 39. Kb2 Ne6 40. Qe2 Nf4 41. Qf3 Nd3+ 0-1
+
+
+
+
+[Event "Texas Norm Swiss 2025"]
+[Site "Texas Chess Center Houston"]
+[Date "2025.10.11"]
+[Round "5"]
+[White "Belous, Vladimir"]
+[Black "Tanenbaum, Zachary"]
+[Result "0-1"]
+[WhiteElo "2501"]
+[WhiteTitle "GM"]
+[WhiteFideId "4174003"]
+[BlackElo "2319"]
+[BlackTitle "FM"]
+[BlackFideId "2060850"]
+[TimeControl "G/90;+30"]
+[Termination "Resignation"]
+[Board "2"]
+[Variant "Standard"]
+[ECO "A08"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+[StudyName "Texas Norm Swiss 2025 (part 2)"]
+[ChapterName "Belous - Tanenbaum, 0-1 (5)"]
+[ChapterURL "https://lichess.org/study/wIJLVvsY/3hv9NEQv"]
+[Annotator "https://lichess.org/@/TexasChessCenter"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nf6 4. O-O g6 5. d3 Bg7 6. Nbd2 O-O 7. e4 Nc6 8. Re1 dxe4 9. dxe4 Qc7 10. c3 e5 11. Nc4 Rd8 12. Qc2 b5 13. Ne3 Bb7 14. h3 Ne7 15. Nh2 h5 16. Nef1 c4 17. Nf3 Nd7 18. a4 a6 19. axb5 axb5 20. Rxa8 Bxa8 21. Be3 Nc5 22. N1d2 Nc8 23. Ra1 Nb6 24. Ra5 Qc6 25. Nb1 Nb3 26. Ra6 Nc5 27. Ra5 Nb3 28. Ra7 Nc8 29. Ra3 Qxe4 30. Qxe4 Rd1+ 31. Kh2 Bxe4 32. Nbd2 Nxd2 33. Nxd2 Bxg2 34. Kxg2 Nd6 35. Ra8+ Kh7 36. Nf3 Bf6 37. g4 hxg4 38. hxg4 Rd5 39. Ra7 Kg8 40. Ra8+ Kh7 41. Rb8 e4 42. Nd4 Bg5 43. Bxg5 Rxg5 44. Kh3 Re5 45. Rd8 Ne8 46. Kg3 g5 47. Rd7 Kg7 48. Rb7 Nf6 49. Nf5+ Kg6 50. Rb6 Rc5 51. f4 exf3 52. Kxf3 Re5 53. Nd4 Kg7 54. Rxb5 Nd7 55. Rb7 Nc5 56. Rc7 Nd3 57. Nf5+ Kf6 58. Rxc4 Rxf5+ { 0-1 Black wins. } 0-1
+
+[Event "Texas Norm Swiss 2025"]
+[Site "Texas Chess Center Houston"]
+[Date "2025.10.11"]
+[Round "6"]
+[White "Tanenbaum, Zachary"]
+[Black "Raja, Harshit"]
+[Result "1/2-1/2"]
+[WhiteElo "2319"]
+[WhiteTitle "FM"]
+[WhiteFideId "2060850"]
+[BlackElo "2476"]
+[BlackTitle "GM"]
+[BlackFideId "5089000"]
+[TimeControl "5400+30"]
+[Variant "2025.10.11"]
+[Termination "Agreement"]
+[Board "1"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[StudyName "Texas Norm Swiss 2025 (part 2)"]
+[ChapterName "Tanenbaum - Raja, 1/2-1/2 (6)"]
+[ChapterURL "https://lichess.org/study/wIJLVvsY/52cv7bff"]
+[Annotator "https://lichess.org/@/TexasChessCenter"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. h3 Be7 9. Qf3 O-O 10. g4 a5 11. Bb5 Na6 12. O-O-O Rc8 13. Kb1 Rxc3 14. bxc3 Nc7 15. Bb6 Qc8 16. Bxc7 Qxc7 17. a4 d5 18. exd5 e4 19. Qe3 Nxd5 20. Rxd5 Bxd5 21. Rd1 Be6 22. Qxe4 Bxb3 23. cxb3 Qxc3 1/2-1/2
+
+[Event "Texas Norm Swiss 2025"]
+[Site "Texas Chess Center Houston"]
+[Date "2025.10.12"]
+[Round "7"]
+[White "Tanenbaum, Zachary"]
+[Black "Budisavljevic, Luka"]
+[Result "1/2-1/2"]
+[WhiteElo "2309"]
+[WhiteTitle "FM"]
+[WhiteFideId "2060850"]
+[BlackElo "2517"]
+[BlackTitle "GM"]
+[BlackFideId "960047"]
+[TimeControl "5400+30"]
+[Termination "Agreement"]
+[Board "1"]
+[Variant "Standard"]
+[ECO "B35"]
+[Opening "Sicilian Defense: Accelerated Dragon, Modern Bc4 Variation"]
+[StudyName "Texas Norm Swiss 2025 (part 2)"]
+[ChapterName "Tanenbaum - Budisavljevic, 1/2-1/2 (7)"]
+[ChapterURL "https://lichess.org/study/wIJLVvsY/FDrJrC39"]
+[Annotator "https://lichess.org/@/TexasChessCenter"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O 8. Bb3 d6 9. f3 Bd7 10. h4 h5 11. Qd2 Ne5 12. O-O-O Rc8 13. Bh6 Qa5 14. Kb1 Nc4 15. Bxc4 Rxc4 16. Nb3 Qb6 17. g4 Bxh6 18. Qxh6 Rxc3 19. bxc3 hxg4 20. h5 g5 21. Qxg5+ Kh7 22. e5 Rg8 23. Qf4 dxe5 24. Qxe5 Be6 25. Rhg1 a5 26. Qc5 Qxc5 27. Nxc5 gxf3 28. Rxg8 Kxg8 29. Nxe6 Ne4 30. Kc1 f2 31. Nc5 Nxc5 32. Kd2 Ne4+ 33. Ke3 Nxc3 34. Rd8+ Kg7 35. Kxf2 Nxa2 36. Rd7 b5 37. Rxe7 Nb4 38. Re5 Nxc2 39. Rxb5 a4 40. Rc5 Nd4 41. Ra5 Kh6 42. Kg3 a3 43. Kh4 Nf3+ 44. Kg4 Nd4 45. Rxa3 Ne6 46. Ra7 Kg7 47. Kf5 Nd4+ 48. Ke4 Ne6 49. Ke5 Ng5 50. Kf5 Ne6 51. Rd7 Kh6 52. Kg4 Kg7 53. Rd1 Kh6 54. Rh1 Ng7 55. Rh2 Ne6 56. Kf5 Nd4+ 57. Kf6 Nf3 58. Rh1 Ng5 59. Rh4 Nf3 60. Rf4 Ng1 61. Rf2 Nh3 62. Rf5 Ng1 63. Re5 Nh3 64. Rf5 Ng1 65. Rf2 Nh3 66. Rh2 Ng5 67. Ke7 Nf3 68. Rh1 Ng5 69. Kf8 Ne4 70. Kxf7 Ng3 71. Rg1 Ne2 72. Re1 Ng3 73. Ke6 Kxh5 74. Ke5 Kg4 75. Ra1 Kf3 76. Ra4 Ne2 77. Ra3+ Kg4 78. Ra2 Kf3 79. Rb2 Ng3 80. Rb4 Ne2 81. Rb3+ Kg4 82. Rb8 1/2-1/2 
+
+
+
+[Event "Texas Norm Swiss 2025"]
+[Site "Texas Chess Center Houston"]
+[Date "2025.10.12"]
+[Round "8"]
+[White "Corrales Jimenez, Fidel"]
+[Black "Tanenbaum, Zachary"]
+[Result "0-1"]
+[WhiteElo "2523"]
+[WhiteTitle "GM"]
+[WhiteFideId "3506690"]
+[BlackElo "2319"]
+[BlackTitle "FM"]
+[BlackFideId "2060850"]
+[TimeControl "5400+30"]
+[Termination "Resignation"]
+[Board "2"]
+[Variant "Standard"]
+[ECO "C45"]
+[Opening "Scotch Game: Potter Variation"]
+[StudyName "Texas Norm Swiss 2025 (part 2)"]
+[ChapterName "Corrales - Tanenbaum, 0-1 (8)"]
+[ChapterURL "https://lichess.org/study/wIJLVvsY/Rkrbk2PZ"]
+[Annotator "https://lichess.org/@/TexasChessCenter"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 Nf6 7. Qe2 O-O 8. Bg5 h6 9. Bh4 a5 10. a4 Nb4 11. O-O-O Re8 12. e5 d5 13. Ne4 Nxe4 14. Bxd8 Na2+ 15. Kb1 Nac3+ 16. bxc3 Nxc3+ 17. Kb2 Nxe2 18. Bxc7 Bxc7 19. Bxe2 Bxe5+ 20. Kb1 Bf5 21. Bd3 Bg4 22. f3 Bd7 23. Bb5 Bxb5 24. axb5 a4 25. Nc1 Red8 26. Rhe1 Bf6 27. Na2 Kf8 28. c3 Rac8 29. Kc2 d4 30. Rd3 dxc3 31. Nb4 Rc5 32. Rg1 Re8 33. Ra1 Re2+ 34. Kc1 Bg5+ 35. f4 Bxf4+ 36. Kd1 Rxg2 37. Nc2 Rxb5 38. Rc1 Rb2 39. Rxc3 Rg1+ 40. Ke2 Rxc1 0-1
+
+
+
+
+[Event "Texas Norm Swiss 2025"]
+[Site "Texas Chess Center Houston"]
+[Date "2025.10.13"]
+[Round "9"]
+[White "Chatterjee, Koustav"]
+[Black "Tanenbaum, Zachary"]
+[Result "1/2-1/2"]
+[WhiteElo "2488"]
+[WhiteTitle "GM"]
+[WhiteFideId "25073060"]
+[BlackElo "2319"]
+[BlackTitle "FM"]
+[BlackFideId "2060850"]
+[TimeControl "5400+30"]
+[Termination "Agreement"]
+[Board "2"]
+[Variant "Standard"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[StudyName "Texas Norm Swiss 2025 (part 2)"]
+[ChapterName "Chatterjee - Tanenbaum, 1/2-1/2 (9)"]
+[ChapterURL "https://lichess.org/study/wIJLVvsY/6OTeiI8w"]
+[Annotator "https://lichess.org/@/TexasChessCenter"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. O-O Nd7 5. d4 e6 6. h3 Bh5 7. c4 Ngf6 8. Nc3 dxc4 9. a4 Nd5 10. Nd2 Bb4 11. g4 Bg6 12. Nxc4 O-O 13. Qb3 a5 14. e4 N5b6 15. Nxb6 Nxb6 16. Be3 Qe7 17. f4 f6 18. Na2 Bf7 19. Nxb4 axb4 20. Bd2 c5 21. dxc5 Qxc5+ 22. Kh2 Rfc8 23. Rfc1 e5 24. Rxc5 Bxb3 25. Rxc8+ Rxc8 26. fxe5 fxe5 27. a5 Rc2 28. Bxb4 Nc4 29. Bc3 Ne3 30. Rg1 Bc4 31. Kg3 Bd3 32. Bxe5 Nxg2 33. Rxg2 Rxg2+ 34. Kxg2 Bxe4+ 35. Kf2 g5 36. Bf6 h6 37. h4 gxh4 38. Bxh4 Kf7 39. Ke3 Bc6 40. b4 Bd7 41. Kf4 Kg6 42. Be1 Kf7 43. Bc3 1/2-1/2
+
+
+	
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chess Games PGN format. Chess Games and notation.</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/css/mobile.css">
+	<link rel="stylesheet" type="text/css" href="/css/post_css.css">
+	<link rel="stylesheet" type="text/css" href="/css/dt.css">
+
+	<link rel="stylesheet" type="text/css" href="/css/all.css">
+	<link rel="stylesheet" type="text/css" href="/css/dt_responsive.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/dt_group.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/jquery-ui.structure.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/jquery-ui.theme.css"/>
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="International Chess Federation (FIDE)">
+	<meta property="og:title" content=" Chess Rating Calculators. Rating change, Initial Chess Rating">
+	<meta property="og:description" content="">
+	<meta property="og:url" content="">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:image" content="https://directory.fide.com/img/fide_og_1200.png">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<script type="text/javascript" src="/js/jquery-3.6.0.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui.js"></script>
+	<script type="text/javascript" src="/js/dt.js"></script>
+	<script type="text/javascript" src="/js/jquery.mark.min.js"></script>
+	
+	
+	
+</head>
+
+<body>
+<header class="header">
+	<div class="header-social"></div>
+	<div class="header-container">
+			<div class="header-logo-container">
+					<div class="header-logo">
+							<a href="https://www.fide.com">
+									<img src="/img/logo1.png" alt="">
+							</a>
+					</div>
+					<div class="header-title-container">
+							<div class="header-title">International</div>
+							<div class="header-subtitle">Chess Federation</div>
+					</div>
+			</div>
+			<div class="menu-container tabs">
+					<div class="tabs-nav main-menu">
+							<button class="tabs-btn menu-button"><a href="https://www.fide.com/news/">NEWS</a></button>
+							<button class="tabs-btn menu-button"><a href="https://ratings.fide.com">RATINGS</a></button>
+							<button class="tabs-btn menu-button"><a href="https://www.fide.com/fide-world-championship-cycle-2025-2026">CHAMPIONSHIP</a></button>
+							<button class="tabs-btn menu-button"><a href="https://calendar.fide.com/calendar.php">CALENDAR</a></button>
+							<button class="tabs-btn menu-button"><a href="https://www.fide.com/about-fide">FIDE</a></button>
+							<button class="tabs-btn menu-button"><a href="https://directory.fide.com">DIRECTORY</a></button>
+							<button class="tabs-btn menu-button"><a href="https://www.fide.com/partners/">PARTNERS</a></button>							
+							<button class="tabs-btn menu-button"  id="fide100div"><a href="https://shop.fide.com">SHOP</a></button>
+							<button class="tabs-btn menu-button"><a href="https://www.fide.com/contacts/">CONTACTS</a></button>
+					</div>
+					<div class="tabs-content nav-submenu" style="display:flex; flex-wrap:wrap;">
+							<div class="tabs-pane main-submenu" id="content-1">
+									<button class="submenu-button"><a href="https://www.fide.com/category/fide-news/">FIDE News</a></button>
+									<button class="submenu-button"><a href="https://www.fide.com/category/chess-news/">Chess news</a></button>
+							</div>
+							<div class="tabs-pane main-submenu" id="content-2">
+									<button class="submenu-button"><a href="https://ratings.fide.com/top_lists.phtml">Top</a></button>
+									<button class="submenu-button"><a href="https://ratings.fide.com/top_federations.phtml">Top Federations</a></button>
+									<button class="submenu-button"><a href="https://ratings.fide.com/rated_tournaments.phtml">Tournaments</a></button>
+									<button class="submenu-button"><a href="https://ratings.fide.com/titles_page.phtml">Titles</a></button>
+									<button class="submenu-button"><a href="https://ratings.fide.com/transfers.phtml">Transfers</a></button>
+									<button class="submenu-button"><a href="https://ratings.fide.com/calc.phtml?page=change">Calculators</a></button>
+									<button class="submenu-button"><a href="https://ratings.fide.com/download_lists.phtml">Download</a></button>
+							</div>
+							<div class="tabs-pane main-submenu" id="content-3">
+									<button class="submenu-button"><a href="https://www.fide.com/fide-circuit-2025/">FIDE Circuit</a></button>
+									<button class="submenu-button"><a href="https://www.fide.com/fide-womens-events-24-25/">Women's Events '24-'25</a></button>
+									<button class="submenu-button"><a href="https://www.fide.com/fide-world-championship-cycle-2025-2026">Open Cycle '25-'26</a></button>									
+									<button class="submenu-button"><a href="https://www.fide.com/fide-womens-world-championship-cycle-2025-2026">Women’s Cycle '25-'26</a></button>
+									<button class="submenu-button"><a href="https://www.fide.com/fide-womens-world-championship-cycle-2023-2025/">Women’s Cycle '23-'25</a></button>
+									
+									
+							</div>
+							
+							
+							
+							<div class="tabs-pane main-submenu" id="content-4">
+							
+									<button class="submenu-button" style="margin-left: 200px;"><a href="https://calendar.fide.com/calendar.php">All Tournaments</a></button>
+									
+									<button class="submenu-button"><a href="https://calendar.fide.com/majorcalendar.php?show=showYear&page=2025">Main Events</a></button>
+									
+									
+							</div>
+							
+							<div class="tabs-pane main-submenu" id="content-5">
+							
+							
+									<button class="submenu-button" style="margin-left: 200px;"><a href="https://www.fide.com/about-fide/">About FIDE</a></button>
+									<button class="submenu-button"><a href="https://handbook.fide.com/">Handbook</a></button>
+									<button class="submenu-button"><a href="https://www.fide.com/documents">Documents</a></button>
+									<button class="submenu-button"><a href="https://med.fide.com" target=_blank>Clean Sport</a></button>
+									<button class="submenu-button"><a href="https://www.fide.com/financial">Financial Reports</a></button>
+									
+							</div>
+							<div class="tabs-pane main-submenu" id="content-6">
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/list/officials">Officials</a></button>
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/list/commissions_and_committees">Commissions & Committees</a></button>
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/list/member_federations/main">Federations</a></button>
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/list/affiliated_organizations">Aff. Organizations</a></button>
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/list/affiliated_members">Aff. Members</a></button>
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/list/dignitaries/&b=1&c=5">Honourable Dignitaries</a></button>
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/orgchart.phtml">Chart</a></button>
+							</div>
+							
+							<div class="tabs-pane main-submenu" id="content-7">
+									<button class="submenu-button invisible"><a href="#">PARNTERS</a></button>
+							</div>
+							<div class="tabs-pane main-submenu" id="content-9">
+									<button class="submenu-button invisible"><a href="#">FIDE100</a></button>
+							</div>
+							<div class="tabs-pane main-submenu" id="content-10">
+									<button class="submenu-button invisible"><a href="#">CONTACTS</a></button>
+							</div>
+							
+					</div>
+			</div>
+					<div class="mobile-menu-container">
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><strong>MAIN/NEWS</strong></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+									<p><a href="https://www.fide.com/news/">All News</a></p>
+									<p><a href="https://www.fide.com/category/fide-news/">FIDE News</a></p>
+									<p><a href="https://www.fide.com/category/chess-news/">Chess News</a></p>
+							</div>
+					</div>
+	
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><strong>RATINGS</strong></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+									<p><a href="https://ratings.fide.com/top_lists.phtml">Top</a></p>
+									<p><a href="https://ratings.fide.com/top_federations.phtml">Top Federations</a></p>
+							        <p><a href="https://ratings.fide.com/index.phtml">Main Page / Search</a></p>
+									<p><a href="https://ratings.fide.com/rated_tournaments.phtml">Tournaments</a></p>
+									<p><a href="https://ratings.fide.com/titles_page.phtml">Titles</a></p>
+									<p><a href="https://ratings.fide.com/transfers.phtml">Transfers</a></p>
+									<p><a href="https://ratings.fide.com/calc.phtml?page=change">Calculators</a></p>
+									<p><a href="https://ratings.fide.com/download_lists.phtml">Download</a></p>
+							</div>
+					</div>
+						<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><strong>CHAMPIONSHIP</strong></h2>
+							</button>
+							
+							
+							<div class="mobile-submenu accordeon-body">
+									<p><a href="https://www.fide.com/fide-circuit-2025/">FIDE Circuit</a></p>
+									<p><a href="https://www.fide.com/fide-womens-events-24-25/">Women's Events '24-'25</a></p>
+									<p><a href="https://www.fide.com/fide-world-championship-cycle-2025-2026">Open Cycle 2025-2026</a></p>
+									<p><a href="https://www.fide.com/fide-womens-world-championship-cycle-2025-2026">Women’s Cycle 2025-2026</a></p>
+									<p><a href="https://www.fide.com/fide-womens-world-championship-cycle-2023-2025">Women’s Cycle 2023-2025</a></p>
+									
+							</div>
+						
+					</div>
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><strong>CALENDAR</strong></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+									<p><a href="https://calendar.fide.com/calendar.php">All Tournaments</a></p>
+									<p><a href="https://calendar.fide.com/majorcalendar.php?show=showYear&page=2025">Main Events</a></p>
+							</div>
+					</div>
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><strong>FIDE</strong></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+									<p><a href="https://www.fide.com/about/">About FIDE</a></p>
+									<p><a href="https://handbook.fide.com/">Handbook</a></p>
+									<p><a href="https://www.fide.com/documents">Documents</a></p>
+									<p><a href="https://med.fide.com" target=_blank>Clean Sport</a></p>
+									<p><a href="https://www.fide.com/financial">Financial Reports</a></p>
+									
+							</div>
+					</div>
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><strong>DIRECTORY</strong></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+									<p><a href="https://directory.fide.com/list/officials">Officials</a></p>
+									<p><a href="https://directory.fide.com/list/commissions_and_committees">Commissions & Committees</a></p>
+									<p><a href="https://directory.fide.com/list/member_federations/main">Federations</a></p>
+								    <p><a href="https://directory.fide.com/list/affiliated_organizations">Affiliated Organizations</a></p>
+									<p><a href="https://directory.fide.com/list/affiliated_members">Affiliated Members</a></p>
+									<p><a href="https://directory.fide.com/list/dignitaries">Honourable Dignitaries</a></p>
+									<p><a href="https://directory.fide.com/orgchart.phtml">Chart</a></p>
+								
+									
+							</div>
+					</div>
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><a href="https://www.fide.com/partners/">PARTNERS</a></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+							</div>
+					</div>
+		
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><a href="https://shop.fide.com">SHOP</a></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+							</div>
+					</div>
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><a href="https://www.fide.com/contacts/">CONTACTS</a></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+							</div>
+					</div>
+			<!--mobile-menu-container-->
+	</div>
+			<div class="header-search-container">
+					<div class="header-search" style="display:none;">
+							
+					</div>
+					<div class="header-account" style="display:none;">
+							<a href=https://portal.fide.com><img src="/img/user.svg" alt=""></a>
+					</div>
+			</div>
+			<div class="menu-burger">
+					<span></span>
+			</div>
+	</div>
+<aside class="social">
+	<div class="social-aside">
+			<a href="https://twitter.com/FIDE_chess" target=_blank><img src="/img/twitter-top.svg" alt="twitter"></a>
+	</div>
+	<div class="social-aside">
+			<a href="https://www.instagram.com/fide_chess/" target=_blank><img src="/img/instagram-top.svg" alt="instagram"></a>
+	</div>
+	<div class="social-aside">
+			<a href="https://www.facebook.com/ChessFIDE/" target=_blank><img src="/img/fb-top.svg" alt="facebook"></a>
+	</div>
+	<div class="social-aside">
+			<a href="https://www.tiktok.com/@fide_chess" target=_blank><img src="/img/tiktok_icon.svg " alt="tiktok"></a>
+	</div>
+	<div class="social-aside">
+			<a href="https://www.linkedin.com/company/48892238" target=_blank><img src="/img/linkedin-top.svg" alt="linkedin"></a>
+	</div>
+	<div class="social-aside youtu">
+			<a href="https://www.youtube.com/channel/UC9B47GnzCRFHTT1BIBWvStQ" target=_blank><img src="/img/youtube-top.svg" alt="youtube"></a>
+	</div>
+	<div class="social-aside">
+			<a href="https://www.twitch.tv/fide_chess" target=_blank><img src="/img/twitch-top.svg" alt="twitch"></a>
+	</div>
+</aside>
+</header>
+<!-- Menu -->
+
+<style>
+.social-aside img
+{
+    height: 18px;
+}
+.youtu img
+{
+    height: 15px !important;
+}
+
+	.header-title {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+}
+.dir-pattern-three, .dir-pattern-two, .dir-pattern-four
+{
+top: 0;
+display:none;
+}
+.directory
+{
+	margin-top: 40px;
+}
+
+	
+	.social
+	{
+	margin:0;
+	}
+	.menu-button {
+	border: none;
+	padding: 10px 8px 62px 8px;
+	border-radius: 7px 7px 0 0;
+	background-color: #EAEEF3;
+	height: 91px;
+	}
+	.main-menu a, .main-menu a:visited
+	{
+		color:#24305E;
+	}
+	.main-menu .tabs-btn:hover
+	{
+	background-color:#374785;
+	transition:
+    
+    background-color 1s,
+	background 1s;
+	
+	}
+	
+	.main-menu > .tabs-btn-active a {
+	color: #fff;
+	}
+	.invisible {
+		display:none;
+	}
+	.header-container
+	{
+			max-width: 1440px;
+			margin: 0 auto;
+			width: 100%;
+	}
+	.mobile-menu-container {
+			display: none;
+			z-index: 10000 !important;
+	}
+	.main-submenu button:hover
+	{
+	background-color: #24305E !important;
+	}
+	.submenu-button a:visited
+	{
+	color:#24305E;
+	}
+
+	
+	@media screen and (max-width: 1024px) {
+	.menu-container {
+			display: none;
+	}
+	.mobile-menu-container {
+			display: block;
+			position: absolute;
+			top: 137px;
+			left: 0;
+			background: rgb(245, 246, 246);
+			box-shadow: #ccc;
+			width: 100%;
+			box-shadow: 0 4px 2px -2px rgba(36, 36, 36, 0.17);
+			left: -200%;
+			transition: all 0.4s ease;
+			z-index: 10000 !important;
+	}
+	.mobile-menu-container.open-menu {
+			left: 0;
+	}
+	.menu-burger {
+			position: absolute;
+			right: 10px;
+			top: 69px;
+			width: 24px;
+			height: 19px;
+			display: block;
+			margin-left: auto;
+			margin-bottom: 20px;
+			cursor: pointer;
+	}
+	.menu-burger span, .menu-burger:after, .menu-burger:before{
+			height: 3px;
+			width: 100%;
+			position: absolute;
+			background: #24305E;
+			margin: 0 auto;
+			border-radius: 1px;
+	}
+	.menu-burger span{
+			top: 21px;
+	}
+	.menu-burger:after, .menu-burger:before{
+			content: '';
+	}
+	.menu-burger:after{
+			bottom: 3px;
+			border-radius: 1px;
+	}
+	.menu-burger:before{
+			top: 5px;
+			border-radius: 1px;
+	}
+	.menu-burger.open-menu span {
+			transform: rotate(38deg);
+			top: 8px;
+			transition: 0.4s;
+	}
+	.menu-burger.open-menu:before {
+			opacity:0; 
+			transition: 0.5s; 
+	}
+	.menu-burger.open-menu:after {
+			transform: rotate(-38deg);
+			bottom: 8px;
+			transition: 0.4s;
+	}
+	.social {
+			position: absolute;
+			top: 10px;
+			left: 159px;
+			width: 400px;
+			justify-content: space-between;
+	}
+	.container {
+			width: 688px;
+	}
+	.page-title {
+			font-weight: 400;
+			font-size: 36px;
+			line-height: 42px;
+	}
+	.menu-button {
+			padding: 0px;
+			height: auto;
+	}
+	.nav-submenu {
+			margin-top: 0px;
+	}
+	.main-submenu button {
+			padding: 0px;
+			margin-right: 0px;
+	}
+	.main-menu a {
+			display: block;
+	}
+	.tabs-pane-show {
+			display: inline-grid;
+	}
+	.mobile-menu {
+			list-style-type: none;
+			text-align: center;
+	}
+	.mobile-submenu {
+			height: 0;
+			overflow: hidden;
+			transition: height .4s ease-in-out;
+			text-align: center;
+	}
+	.mobile-accordeon button {
+			padding: 10px;
+			border: none;
+			cursor: pointer;
+			width: 100%;
+			background-color: #EAEEF3;
+			line-height: 1;
+	}
+	.mobile-accordeon button:focus
+	{
+		background-color: #868CAD;
+		color: #fff;
+	}
+	.mobile-menu.active, .mobile-menu.active:focus  {
+			background-color: #868CAD;
+	}
+	.mobile-menu.active h2 {
+			background-color: #868CAD;
+			color: #fff;
+	}
+	.mobile-menu.active h2 a {
+			color: #fff;
+	}
+	.mobile-menu h2, .mobile-menu h2 a {
+			font-style: normal;
+			font-weight: 400;
+			font-size: 16px;
+			line-height: 19px;
+			align-items: center;
+			text-transform: uppercase;
+			text-decoration: none;
+			display:inline;
+	}
+	.mobile-submenu p {
+			padding: 7px 0px;
+	}
+	.mobile-submenu p a {
+			font-style: normal;
+			font-weight: 400;
+			font-size: 16px;
+			line-height: 140%;
+			color: #374785;
+			text-decoration: none;
+	}
+	}
+	@media screen and (max-width: 576px) {
+							.header-social, .social {
+			display: none;
+	}
+	.header-search-container, .menu-burger {
+			top: 40px;
+	}
+	
+	}
+	@media screen and (max-width: 375px) {
+							.header-search-container {
+			display: none;
+	}
+	.menu-burger {
+			right: 15px;
+	}
+	}
+	
+
+
+.main-submenu button {
+	margin-right: 8px;
+	padding: 10px 8px;
+}
+.submenu-button.dir_button
+{
+	margin: 1px !important;
+	padding: 10px 4px;
+}
+.tabs-btn-active, .tabs-btn-active:focus, .tabs-btn-active:active
+{
+	
+	background-color: #374785;
+}
+.header-search-container img:last-child {
+ 
+  margin-right: 5px;
+}
+.header
+{
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+}
+
+@media screen and (max-width: 1300px) {
+
+.header-title {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+}
+.header-subtitle {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+.menu-container {
+  margin-left: 15px;
+  
+}
+.header-title-container {
+padding-left: 10px;
+}
+}
+
+@media screen and (max-width: 1576px) {
+	.header-logo-container
+	{
+	margin-left: 10px;
+	}
+
+
+}
+@media screen and (max-width: 1576px) {
+.social {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	align-items: center;
+	top: 40px;
+	right: 40px;
+}
+ .social-aside {
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 20px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+.header
+{
+	height: 174px;
+}
+.header-title
+{
+	padding-top:0;
+	paddint-left: 8px;
+	
+}
+.container {
+	width: 944px;
+	margin: 0 auto;
+}
+.page-title {
+	font-size: 36px;
+	line-height: 42px;
+}
+.none {
+	display: none;
+}
+/*HEADER*/
+.header {
+ margin-bottom: 8px;
+}
+.header-container {
+	padding-top: 20px;
+	display: block;
+}
+.header-logo-container {
+	padding-bottom: 10px;
+	padding-left: 10px;
+	
+}
+.header-logo-container img {
+	width: 70px;
+}
+.header-title-container {
+	padding-left: 10px;
+}
+.header-title {
+	font-size: 14px;
+	line-height: 16px;
+	padding-left: 10px;
+}
+.header-subtitle {
+	font-size: 14px;
+	line-height: 16px;
+	padding-left: 10px;
+}
+.menu-container {
+	margin: 0px;
+	padding-left: 4px;
+}
+.header-search-container {
+	position: absolute;
+	top: 85px;
+	right: 40px;
+}
+.submenu-button.dir_button
+{
+	margin: 1px !important;
+	padding: 10px 4px;
+}
+.main-submenu button {
+	margin-right: 3px;
+}
+
+
+.social {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	align-items: center;
+	top: 40px;
+	right: 40px;
+}
+.social-aside {
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 20px;
+}
+.header-title, .header-subtitle
+	{
+			margin-top: 0;
+			margin-bottom: 0;
+	}
+}
+
+
+@media screen and (max-width: 1024px) {
+	 .header
+	{
+			height: 90px;
+			padding-left: 5px;
+	}
+	.header-social, .social {
+			display: none;
+	}
+	.header-search-container, .menu-burger {
+			top: 40px;
+	}
+	.header-search-container {
+	position: absolute;
+	top: 40px;
+	right: 60px;
+	}
+	.header-social {
+	display: none;
+	height: 40px;
+	background-color: #fff;
+	}
+	.header-title, .header-subtitle
+	{
+			margin-top: 0;
+			margin-bottom: 0;
+	}
+	.header-logo-container {
+	padding-bottom: 10px;
+	padding-top: 15px;
+	}
+	
+	.social {
+display: -webkit-box;
+display: -webkit-flex;
+display: -ms-flexbox;
+display: flex;
+align-items: center;
+left:0;
+top: 5px;
+padding-bottom: 3px;
+border-bottom: 1px solid #C6CDDD;
+width: 100%;
+justify-content: center;
+
+
+	
+	}
+	.mobile-menu-container {
+	top: 90px;
+	transition: all 0.4s ease;
+	border-top: 1px solid #374785;
+	z-index: 200;
+	
+	}
+	
+}
+
+@media screen and (max-width: 375px){
+	.header {
+	height: 90px;
+	padding-left: 5px;
+	}
+	
+	.mobile-menu-container {
+	top: 90px;
+	transition: all 0.4s ease;
+	border-top: 1px solid #374785;
+	
+	}
+	.header-search-container {
+	display: flex;
+	top: 40px;
+	right: 60px;
+	}
+  
+	}
+
+
+[type="button"], [type="submit"], button
+{
+	 background-color: #374785;
+}
+.activeurll {
+  background-color: #24305E !important;
+  color: #ffffff !important;
+}
+.activeurll a {
+  color: #ffffff !important;
+}
+
+.main-submenu a:hover
+{
+text-decoration: none;
+font-weight: normal;
+}
+.mobile-accordeon button:hover
+{
+	color: red;
+	background-color: #868CAD;
+}
+ .mobile-menu.active {
+    background-color: #868CAD;
+  }
+
+	#fide100div
+	{	
+	color:red;
+	border: 0;
+	
+   
+	}
+	#fide100div:hover
+	{
+	z-index: 1000;
+	}
+	
+.calendar-tabs-buttons {
+  z-index: 90;
+}
+.elementor-245 .elementor-element.elementor-element-df66bb2
+{
+	box-shadow:none;
+}
+
+</style>
+
+<script>
+let burger = document.querySelector('.menu-burger');
+let menu = document.querySelector('.mobile-menu-container');
+
+burger.onclick = function() {
+	
+menu.classList.toggle('open-menu');
+burger.classList.toggle('open-menu');
+};
+
+</script>    
+<script>
+class ItcTabs {
+  constructor(target, config) {
+    const defaultConfig = {};
+    this._config = Object.assign(defaultConfig, config);
+    this._elTabs =
+      typeof target === "string" ? document.querySelector(target) : target;
+    this._elButtons = this._elTabs.querySelectorAll(".tabs-btn");
+    this._elPanes = this._elTabs.querySelectorAll(".tabs-pane");
+    this._eventShow = new Event("tab.itc.change");
+    this._init();
+    this._events();
+  }
+
+  _init() {
+    this._elTabs.setAttribute("role", "tablist");
+    this._elButtons.forEach((el, index) => {
+      el.dataset.index = index;
+      el.setAttribute("role", "tab");
+      this._elPanes[index].setAttribute("role", "tabpanel");
+      el.classList.add("tabs-btn-not-active"); // ���������� ������ .tabs-btn-not-active
+    });
+  }
+
+  show(elLinkTarget) {
+    const elPaneTarget = this._elPanes[elLinkTarget.dataset.index];
+    const elLinkActive = this._elTabs.querySelector(".tabs-btn-active");
+    const elPaneShow = this._elTabs.querySelector(".tabs-pane-show");
+    if (elLinkTarget === elLinkActive) {
+      return;
+    }
+    elLinkActive ? elLinkActive.classList.remove("tabs-btn-active") : null;
+    elLinkActive ? elLinkActive.classList.add("tabs-btn-not-active") : null; // ���������� ������ .tabs-btn-not-active
+		elPaneShow ? elPaneShow.style.display = "none" : null;
+    elPaneShow ? elPaneShow.classList.remove("tabs-pane-show") : null;
+    elLinkTarget.classList.add("tabs-btn-active");
+    elLinkTarget.classList.remove("tabs-btn-not-active"); // �������� ������ .tabs-btn-not-active
+    elPaneTarget.classList.add("tabs-pane-show");
+    this._elTabs.dispatchEvent(this._eventShow);
+    elLinkTarget.focus();
+  }
+
+  showByIndex(index) {
+    const elLinkTarget = this._elButtons[index];
+    elLinkTarget ? this.show(elLinkTarget) : null;
+  }
+
+  _events() {
+		this._elTabs.addEventListener("click", (e) => {
+  const target = e.target.closest(".tabs-btn");
+  if (target) {
+    const link = target.querySelector("a");
+    if (link) {
+      const href = link.getAttribute("href");
+      if (href) {
+        e.preventDefault();
+        window.location.href = href;
+      }
+    }
+  }
+});
+
+  }
+}
+
+const accordionToggle = () => {
+  const chItems = document.querySelectorAll(".tabs-pane.main-submenu");
+
+  chItems.forEach((item) => {
+    const chButton = item.querySelector("button.submenu-button");
+    const chDesc = item;
+
+    const toggleAccordion = () => {
+      chItems.forEach((item) => {
+        const chRemoveButton = item.querySelector("button.submenu-button");
+        const chRemoveDesc = item;
+
+        if (chRemoveDesc !== chDesc) {
+          chRemoveDesc.style.display = "none"; // Set display: none
+          chRemoveDesc.classList.remove("tabs-pane-show");
+					chRemoveDesc.classList.add("tabs-pane-not-show");
+          chRemoveButton.classList.remove("tabs-btn-active");
+          chRemoveButton.classList.add("tabs-btn-not-active");
+        }
+      });
+
+      chDesc.classList.toggle("tabs-pane-show");
+      chButton.classList.toggle("tabs-btn-active");
+      chButton.classList.remove("tabs-btn-not-active");
+    };
+
+    chButton.addEventListener("click", toggleAccordion);
+  });
+};
+
+const tabs = new ItcTabs(".tabs");
+accordionToggle();
+const accordeon = () => {
+  const chItems = document.querySelectorAll(".accordeon");
+
+  chItems.forEach((item) => {
+    const chButton = item.querySelector(".accordeon-title");
+    const chDesc = item.querySelector(".accordeon-body");
+
+    chButton.addEventListener("click", () => {
+      chItems.forEach((item) => {
+        const chRemoveButton = item.querySelector(".accordeon-title");
+        const chRemoveDesc = item.querySelector(
+          ".accordeon-body"
+        );
+
+        if (chRemoveDesc !== chDesc) {
+          chRemoveDesc.classList.remove("open");
+          chRemoveDesc.style.height = 0;
+          chRemoveButton.classList.remove("active");
+        }
+      });
+
+      if (chDesc.classList.contains("open")) {
+        chDesc.style.height = 0;
+      } else {
+        chDesc.style.height = chDesc.scrollHeight + "px";
+      }
+
+      chDesc.classList.toggle("open");
+      chButton.classList.toggle("active");
+    });
+  });
+};
+
+accordeon();
+
+document.addEventListener('DOMContentLoaded', function() {
+  var currentURL = window.location.href;
+  var substituteURL = window.location.href;
+  
+
+  // ������� ������� � ������� menu-container
+  var menuContainer = document.querySelector('.tabs-content');
+
+	var menuContainerLvlOne = document.querySelector('.tabs-nav');
+  // �������� ��� ������ ������ menuContainer
+  var links = menuContainer.querySelectorAll('a');
+	var linksLvlOne = menuContainerLvlOne.querySelectorAll('a');
+
+
+	for (var i = 0; i <linksLvlOne.length; i++) {
+		var linkLvlOne = linksLvlOne[i];
+		var href = linkLvlOne.getAttribute('href');
+		
+		//custom links
+		  if (href.includes("https://ratings.fide.com") & substituteURL.includes("ratings2.fide.com.test"))
+  
+			{
+				var currentURL = "https://ratings.fide.com";
+				var href = "ratings.fide.com";
+			}
+		 
+
+		
+		if (currentURL.includes(href)){
+		
+		
+			var parent = linkLvlOne.parentElement;
+			
+			parent.classList.add('tabs-btn-active');
+			parent.classList.remove('tabs-btn-not-active');
+			var dataIndex = parent.getAttribute('data-index');
+			var newId = 'content-' + (parseInt(dataIndex, 10) + 1);
+
+
+// ������� ������� � ����� ��������������� � ��������� ����������� ��������
+var element = document.getElementById(newId);
+if (element) {
+  element.classList.add('tabs-pane-show');
+}
+
+		}
+		
+	
+		
+	}
+  // ���������� ������ � ��������� ����������� ��������
+  for (var i = 0; i < links.length; i++) {
+    var link = links[i];
+    var href = link.getAttribute('href');
+
+    // ���������, �������� �� ������� URL ������ ����� ������
+    if (currentURL.includes(href)) {
+      // ������� ������������ ������� ������
+      var parentParent = link.parentElement.parentElement;
+			var parent = link.parentElement;
+
+      // ������������� display: block ��� ������������� �������� ������
+			parent.classList.add('activeurll');
+      parentParent.style.display = 'block';
+      parentParent.classList.add('activeurl');
+      parentParent.classList.add('tabs-pane-show');
+
+      var myid = parentParent.id;
+			
+      var trimmedId = myid.replace('content-', '');
+      var newId = parseInt(trimmedId, 10) - 1;
+
+      // ������� ������� � ����� ��������������� � ��������� ����������� ��������
+			
+      var element = menuContainerLvlOne.querySelector('[data-index="' + newId + '"]');
+			
+      if (element) {
+        element.classList.add('tabs-btn-active');
+        element.classList.remove('tabs-btn-not-active');
+      }
+    }
+  }
+
+  // ��������� ���������� tabsPane
+  var tabsPane = document.querySelector('.tabs-pane-show');
+
+  // ������� ��� ���������� ���������� tabsPane
+  function updateTabsPane() {
+    tabsPane = document.querySelector('.tabs-pane-show');
+  }
+
+  const buttons = document.querySelectorAll('.tabs-btn.menu-button');
+  let activeSubmenu = null;
+
+  buttons.forEach((button, index) => {
+    const submenu = document.getElementById(`content-${index + 1}`);
+
+    button.addEventListener('mouseover', () => {
+      if (button.classList.contains('tabs-btn-not-active')){
+        submenu.style.display = 'block';
+				updateTabsPane()
+        tabsPane.style.display = 'none';
+      }
+			if (button.classList.contains('tabs-btn-active')){
+				tabsPane.style.display = 'block';
+				// submenu.style.display= 'none';
+			}
+    });
+
+    button.addEventListener('mouseleave', () => {
+      if (!button.classList.contains('tabs-btn-active')) {
+        submenu.style.display = 'none';
+				updateTabsPane()
+        if (tabsPane) {
+          tabsPane.style.display = 'block';
+        }
+      }
+			if (button.classList.contains('tabs-btn-active')){
+				tabsPane.style.display = 'block';
+			}
+    });
+
+    submenu.addEventListener('mouseenter', () => {
+      if (button.classList.contains('tabs-btn-not-active')){
+        submenu.style.display = 'block';
+				updateTabsPane()
+        tabsPane.style.display = 'none';
+      }
+			if (button.classList.contains('tabs-btn-active')){
+				tabsPane.style.display = 'block';
+				// submenu.style.display= 'none';
+			}
+    });
+
+    submenu.addEventListener('mouseleave', () => {
+      submenu.style.display = 'none';
+			updateTabsPane()
+			tabsPane.style.display = 'block';
+    });
+  });
+
+  // ��������� ��������� ��� ���������� ���������� tabsPane
+  menuContainer.addEventListener('transitionend', updateTabsPane);
+  menuContainer.addEventListener('animationend', updateTabsPane);
+});
+
+
+
+</script>﻿<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0TSTM17GEX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0TSTM17GEX');
+</script>
+<link rel="stylesheet" type="text/css" href="/css/rtng_css.css"/>
+<style>
+
+
+</style>
+
+    <div class="dir-pattern">
+        <img src="/img/dir-pattern-1.png" alt="">
+    </div>
+    <div class="dir-pattern-two">
+        <img src="/img/dir-pattern-2.png" alt="">
+    </div>
+    <div class="dir-pattern-four">
+        <img src="/img/dir-pattern-4.png" alt="">
+    </div>
+    <div class="dir-pattern-three">
+        <img src="/img/dir-pattern-3.png" alt="">
+    </div>
+    <div class="dir-pattern-five">
+        <img src="/img/dir-pattern-5.png" alt="">
+    </div>
+	<section class="directory">
+    <div class="directory-container container">
+	<h1 class="page-title">PGN Files</h1>
+		<div class="tmnt_name1">
+					</div>
+		
+	</div>
+	</section>
+	<footer class="footer">
+        <div class="footer-top">
+            <div class="footer-image">
+                <img src="/img/footer-queen.png" alt="">
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="footer-container container1">
+                <div class="footer-logo-container">
+                    <div class="footer-logo">
+                        <a href="/"><img src="/img/logo1.png" alt=""></a>
+                    </div>
+                    <div class="header-title-container footer-title-container">
+                        <h2 class="header-title footer-title">International</h2>
+                        <h2 class="header-subtitle footer-subtitle">Chess Federation</h2>
+                    </div>
+                    <!--footer-logo-container-->
+                </div>
+                <div class="footer-menu-container">
+                    <div class="footer-menu">
+                        <ul class="footmenu">
+                            <a href="https://www.fide.com/"><li>HOME</li></a>
+                            <a href="https://www.fide.com/news"><li>NEWS</li></a>
+                            <a href="https://ratings.fide.com/"><li>RATINGS</li></a>
+                            <a href="https://www.fide.com/fide-world-championship-cycle-2025-2026"><li>CHAMPIONSHIP</li></a>
+                            <a href="https://calendar.fide.com/"><li>CALENDAR</li></a>
+                            <a href="https://www.fide.com/fide/about-fide"><li>FIDE</li></a>
+                            <a href="https://med.fide.com" target=_blank><li>Clean Sport</li></a>
+							<a href="https://www.fide.com/partners"><li>PARTNERS</li></a>							
+							<a href="https://shop.fide.com/" target=_blank><li>SHOP</li></a>
+							<a href="https://www.fide.com/contacts"><li>CONTACTS</li></a>
+							<a href="https://old.fide.com/"><li>ARCHIVE</li></a>
+							<a href="https://www.fide.com/privacy"><li>PRIVACY POLICY</li></a>
+							
+							
+                        </ul>
+                    </div>
+                   
+                    <div class="footer-copyright">
+                        <p>© 2025 FIDE International Chess Federation. All Rights Reserved. No part of this site may be reproduced, stored in a retrieval system or transmitted in any way or by any means (including photocopying, recording or storing it in any medium by electronic means), without the written permission of FIDE International Chess Federation.</p>
+                    </div>
+                    <!--footer-menu-container-->
+                </div>
+                <div class="footer-social">
+                    <div class="footer-social-button">
+                        <a href="https://www.twitch.tv/fide_chess">
+                            <img src="/img/footer-twitch.svg" alt="">
+                        </a>
+                    </div>
+                    <div class="footer-social-button">
+                        <a href="https://twitter.com/FIDE_chess">
+                            <img src="/img/twitterx_footer.svg" alt="twitter">
+                        </a>    
+                    </div>
+                    <div class="footer-social-button">
+                        <a href="https://www.instagram.com/fide_chess/">
+                            <img src="/img/footer-instagram.svg" alt="instagram">
+                        </a>
+                    </div>
+                    <div class="footer-social-button">
+                        <a href="https://www.facebook.com/ChessFIDE/">
+                            <img src="/img/footer-facebook.svg" alt="facebook">
+                        </a>
+                    </div>
+                    <div class="footer-social-button youtube_logo">
+                        <a href="https://www.youtube.com/channel/UC9B47GnzCRFHTT1BIBWvStQ">
+                            <img src="/img/footer-youtube.svg" alt="youtube">
+                        </a>
+                    </div>
+                    <div class="footer-social-button">
+                        <a href="">
+                            <img src="/img/footer-twitch.svg" alt="twitch">
+                        </a>
+                    </div>
+                    <div class="footer-social-button">
+                        <a href="https://www.tiktok.com/@fide_chess">
+                            <img src="/img/tiktok_footer.svg" alt="tiktok">
+                        </a>
+                    </div>
+                    <div class="footer-social-button">
+                        <a href="https://www.linkedin.com/company/48892238">
+                            <img src="/img/footer-linkedin.svg" alt="linkedin">
+                        </a>
+                    </div>
+                    <!--footer-social-->
+                </div>
+                <!--footer-container-->
+            </div>
+        </div>
+    
+        <div class="up-button-container">
+            <a href="#">
+                <img src="/img/up-button.png" alt="">
+            </a>
+        </div>
+    </footer>
+	<style>
+
+.container1
+{
+	max-width: 1440px;
+	padding: 10px;
+	margin: auto;
+}
+.footmenu a, .footmenu a:visited, .footmenu a:active, .footmenu a:hover
+{
+  font-family: "Roboto", Sans-serif;
+  font-size: 14px;
+  font-weight: 400;	
+  text-decoration: none;
+  color:#24305e;
+}
+.footer
+{
+	margin-top: 0px;
+	width: 100vw;
+        max-width: 100%;
+}
+.footer-menu ul
+{
+	flex-direction: row;
+    flex-wrap: wrap;
+	gap: 10px;
+	justify-content: space-evenly;
+}
+
+.footer-logo-container {
+  max-width: 420px;
+  width: 20%;
+}
+
+.footer-image {
+  position: absolute;
+  right: 140px;
+  bottom: 60px;
+  z-index: 1;
+}
+
+.footer-social-button img {
+  padding: 14px;
+  height: 50px;
+}
+.youtube_logo img
+{
+    width: 50px !important;
+}
+
+.up-button-container a {
+    display: inline-block;
+    position: absolute;
+    right: 50px;
+    bottom: 17px;
+    width: 80px;
+    height: 80px;
+    z-index: 300;
+}
+
+.up-button-container img {
+    position: absolute;
+    z-index: 300;
+    bottom: 0px;
+    right: 0px;
+}
+
+@media screen and (max-width: 1024px) {
+.container1 {
+	width:100%;
+	margin: 0 auto;
+}
+
+ .header-title-container {
+    padding-left: 8px;
+  }
+  .footer-social {
+    padding-left: 0px;
+    }
+    .footer-social-button:first-child {
+    display: none;
+}
+}
+@media screen and (min-width: 575px) and (max-width: 1024px) {
+  .footer-menu-container {
+    width: 70%;
+    padding-left: 10px;
+  }
+  .footer-image {
+    left: 15%;
+    bottom: 40%;
+  }
+   .footer-title-container {
+    padding-left: 0px;
+    padding-top: 0px;
+    
+    text-align: left;
+  }
+   .footer-copyright p {
+    padding-top: 10px;
+    line-height: 14px;
+	font-size: 12px;
+  }
+   .footer-social{
+    justify-content:left;
+    width: 100%;
+    }
+
+  .footer-social-button img {
+    padding: 16px;
+  }
+  .footer-logo {
+    padding: 0px 0px 10px 10px;
+}
+.up-button-container a {
+    right: 20px;
+    bottom: 56px;
+}
+}
+
+@media screen and (max-width: 574px) {
+    
+.header-title, .header-subtitle {
+    padding-left: 0px;
+    }  
+  .footer-menu-container {
+    width: 75%;
+    align-items: start;
+	padding-left: 0;
+  }
+   .footer-copyright {
+    width: 99%;
+    margin-left: 0;
+  }
+  .footer-image {
+    top: 3%;
+    left: 40%;
+  }
+  .footer-image img {
+        width: 60px;
+        margin-left: 150%;
+    }
+    .footer-social{
+    justify-content: center;
+    width: 100%;
+    }
+  .footer-social-button img {
+    padding: 8px;
+    width: 38px;
+  }
+
+.footer-menu ul
+{
+	flex-direction: row;
+    flex-wrap: wrap;
+	padding-left:0;
+}
+
+.footer-title-container {
+    padding-left: 0px;
+    padding-top: 0px;
+    
+    text-align: left;
+  }
+
+.footer-menu {
+  display: block;
+  width: 100%;
+  padding-top: 20px;
+  }
+.footer-logo-container img
+	{
+		margin:auto;
+	}
+	
+.footer-title-container {
+    
+    width: 100%;
+  }
+.footer-subtitle {
+	width: 100%;
+	}
+.footer-logo-container {
+  padding-top: 15px;
+	width: 20%;
+	}
+.footer-bottom {
+    padding-bottom: 10px;
+	padding-top: 10px;
+  }
+
+.footer-logo-container {
+  
+	width: 100%;
+	}
+.footmenu a li {
+    padding-top: 10px;
+  }
+.footer-menu ul
+{
+	flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+.footer-menu-container {
+    width: 100%;
+    align-items: start;
+	padding-left: 0;
+	
+  }
+.footer-title-container {
+    padding-left: 0px;
+    padding-top: 0px;
+    
+    text-align: center;
+  }
+.up-button-container a {
+    right: 20px;
+    bottom: 807px;
+    width: 50px;
+    height: 50px;
+}
+
+}
+	</style> 
+
+</body>
+</html>
