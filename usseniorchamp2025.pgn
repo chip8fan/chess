@@ -1,0 +1,2370 @@
+﻿[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.15"]
+[Round "1.1"]
+[White "Shabalov, Alexander"]
+[Black "Christiansen, Larry"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2478"]
+[BlackElo "2571"]
+[PlyCount "84"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. Qe2 Nc6 8. Nxc6 Bxc6 9. Bd2 Bc5 10. O-O-O Ne7 11. e5 Bd4 12. f4 Bxc3 13. Bxc3 Nd5 14. Bd2 b4 15. Qg4 g6 16. h4 Qa5 17. Bc4 Qc5 18. Bb3 a5 19. Qe2 Nc3 20. Bxc3 bxc3 21. Rh3 cxb2+ 22. Kb1 a4 23. Bc4 Rb8 24. h5 Rb4 25. Bd3 Rf8 26. hxg6 hxg6 27. Qd2 Rd4 28. c3 Rd5 29. Qxb2 Ke7 30. a3 d6 31. Re1 Qa7 32. Kc1 Rb8 33. Qc2 Qc5 34. Kd2 Qf2+ 35. Kd1 Qxf4 36. Rf3 Qc4 37. Ref1 Be8 38. exd6+ Rxd6 39. Ke2 Qc5 40. Qc1 Rb3 41. Qf4 Rb2+ 42. Kd1 Qxc3 0-1
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.15"]
+[Round "1.2"]
+[White "Dlugy, Maxim"]
+[Black "Akopian, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "2514"]
+[BlackElo "2586"]
+[PlyCount "108"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 d5 2. Bf4 c5 3. e3 cxd4 4. exd4 Nc6 5. c3 Bf5 6. Nf3 e6 7. Qb3 Qc8 8. Be2 Nf6 9. Nbd2 Be7 10. O-O h6 11. Ne5 O-O 12. a4 Nd7 13. Bd3 g5 14. Be3 Ndxe5 15. Bxf5 exf5 16. dxe5 Nxe5 17. Qxd5 Qe6 18. Qb5 a6 19. Qe2 Rad8 20. Nf3 Qc4 21. Rfe1 Qxe2 22. Rxe2 Nxf3+ 23. gxf3 Bf6 24. Bc5 Rfe8 25. Rxe8+ Rxe8 26. Kf1 g4 27. Rd1 gxf3 28. Rd3 Re2 29. Ba3 Re4 30. b3 Be5 31. h3 Re2 32. Rxf3 Ra2 33. Bb4 f4 34. Rd3 Kg7 35. Kg2 Kg6 36. Kf3 Rb2 37. c4 Kf5 38. Ba3 Rb1 39. Bf8 h5 40. Bc5 f6 41. Bb6 Rh1 42. Kg2 Ke4 43. Rd7 Rb1 44. f3+ Kf5 45. Rd3 Rb2+ 46. Kf1 Rb1+ 47. Kg2 Rb2+ 48. Bf2 Ke6 49. Kf1 Rb1+ 50. Ke2 Rb2+ 51. Kf1 Rb1+ 52. Ke2 Rb2+ 53. Kf1 Rb1+ 54. Ke2 Rb2+ 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.15"]
+[Round "1.3"]
+[White "Kaidanov, Gregory"]
+[Black "Benjamin, Joel"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2505"]
+[BlackElo "2473"]
+[PlyCount "66"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Nc3 d6 6. a3 O-O 7. Be3 Be6 8. Bxe6 fxe6 9. Ne2 Qe8 10. Ng3 Ng4 11. O-O Qg6 12. c3 h5 13. Kh1 h4 14. Ne2 h3 15. gxh3 Nxe3 16. fxe3 Qh6 17. Qb3 Nd8 18. Ng3 Kh8 19. h4 Qxe3 20. Ng5 Rf4 21. Nxe6 Nxe6 22. Qxe6 Bxh4 23. Nf5 Rxf1+ 24. Rxf1 Qe2 25. Ng3 Bxg3 26. Qh3+ Kg8 27. Qe6+ Kh8 28. Qh3+ Kg8 29. hxg3 Qxd3 30. Qe6+ Kh8 31. Qh3+ Kg8 32. Qe6+ Kh8 33. Qh3+ Kg8 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.15"]
+[Round "1.4"]
+[White "Fishbein, Alexander"]
+[Black "Novikov, Igor"]
+[Result "0-1"]
+[ECO "A19"]
+[WhiteElo "2368"]
+[BlackElo "2485"]
+[PlyCount "160"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. c4 e6 2. Nc3 Nf6 3. e4 c5 4. e5 Ng8 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Nxe5 8. Ndb5 f6 9. Bf4 a6 10. Nd6+ Bxd6 11. Qxd6 Nf7 12. Qd2 Ne7 13. Bd3 O-O 14. O-O d6 15. Be3 Bd7 16. Rad1 Rc8 17. b3 Qc7 18. Rfe1 b5 19. Bf4 e5 20. Rc1 Qb7 21. Be3 Bc6 22. f3 Rfd8 23. Qc2 g6 24. Qf2 Kg7 25. Bb6 Rd7 26. cxb5 axb5 27. a4 bxa4 28. bxa4 d5 29. a5 Nd6 30. f4 e4 31. Bf1 Qa8 32. Red1 Rb8 33. Qc5 Ndc8 34. Ra1 d4 35. Nb5 Nxb6 36. axb6 Qb7 37. Nxd4 Qxb6 38. Qxb6 Rxb6 39. Rac1 Ba4 40. Rd2 Rbd6 41. Rc4 Bb5 42. Nxb5 Rxd2 43. Rxe4 Nf5 44. Re2 Rxe2 45. Bxe2 Nd4 46. Nxd4 Rxd4 47. g3 Kf7 48. Kf2 Ke6 49. Ke3 Ra4 50. Bg4+ Kd6 51. Be2 Kc5 52. h4 Ra3+ 53. Kf2 Kd4 54. Bb5 Rc3 55. Bf1 Rb3 56. Bh3 Rb1 57. Kf3 Rc1 58. Kf2 h5 59. Be6 Ke4 60. Kg2 Rc7 61. Bb3 f5 62. Kf2 Rb7 63. Bc2+ Kd4 64. Ba4 Rb6 65. Kf3 Kd3 66. Kf2 Kd2 67. Bd7 Rd6 68. Bb5 Kc3 69. Kf3 Kd4 70. Ba4 Re6 71. Bd7 Re3+ 72. Kf2 Rc3 73. Be8 Ke4 74. Bxg6 Rc2+ 75. Ke1 Rg2 76. Bxh5 Rxg3 77. Kf2 Rh3 78. Be8 Rxh4 79. Bc6+ Kxf4 80. Kg2 Rh6 0-1
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.15"]
+[Round "1.5"]
+[White "Taylor, Timothy"]
+[Black "Goldin, Alexander"]
+[Result "0-1"]
+[ECO "C30"]
+[WhiteElo "2147"]
+[BlackElo "2541"]
+[PlyCount "94"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Nc6 5. d4 exd4 6. cxd4 Bb6 7. Bb5 Nf6 8. d5 O-O 9. dxc6 Nxe4 10. Qe2 a6 11. Bd3 Nf2 12. Rf1 Re8 13. Rxf2 Bxf2+ 14. Kxf2 Rxe2+ 15. Bxe2 bxc6 16. Nc3 a5 17. Be3 Ba6 18. Bxa6 Rxa6 19. Re1 Ra8 20. a4 Rb8 21. Re2 Qd7 22. g3 Re8 23. Bd2 Rxe2+ 24. Nxe2 Qf5 25. Nfd4 Qd5 26. Bc3 Kf8 27. Nc1 Qc4 28. Ndb3 Qxa4 29. Bxa5 Ke7 30. Bc3 g6 31. f5 Qe4 32. fxg6 hxg6 33. Ne2 c5 34. h4 Qc2 35. Nd2 d5 36. Nf3 d4 37. Nfxd4 cxd4 38. Bxd4 Qe4 39. Bc3 Ke6 40. Nd4+ Kd5 41. Nf3 Qd3 42. Nd2 Ke6 43. Nf3 Kf5 44. Ne5 Qc2+ 45. Kf3 f6 46. g4+ Ke6 47. Nc6 Qd1+ 0-1
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.16"]
+[Round "2.1"]
+[White "Benjamin, Joel"]
+[Black "Novikov, Igor"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2473"]
+[BlackElo "2485"]
+[PlyCount "66"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 e6 6. Be3 cxd4 7. cxd4 Nc6 8. Nc3 Qd6 9. a3 Be7 10. Bd3 O-O 11. Qc2 Bd7 12. O-O Rac8 13. Rad1 Rfd8 14. Rfe1 Be8 15. h3 h6 16. Qc1 Bf8 17. Bf4 Qd7 18. Bb1 Nd5 19. Nxd5 Qxd5 20. Qc2 g6 21. Qd2 Bg7 22. Be4 Qa5 23. Qxa5 Nxa5 24. b4 Nc6 25. d5 exd5 26. Bxd5 b5 27. Be4 Rxd1 28. Rxd1 h5 29. Be3 Bb2 30. Rb1 Bf6 31. Rd1 Bb2 32. Rb1 Bf6 33. Rd1 Bb2 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.16"]
+[Round "2.2"]
+[White "Goldin, Alexander"]
+[Black "Fishbein, Alexander"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[WhiteElo "2541"]
+[BlackElo "2368"]
+[PlyCount "138"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. d4 O-O 6. Nc3 c6 7. O-O Bf5 8. b3 Ne4 9. Bb2 Nxc3 10. Bxc3 Be4 11. Rc1 Na6 12. e3 Qd7 13. Qe2 Rad8 14. Rfd1 Qc8 15. b4 Nc7 16. Bf1 Qg4 17. Nd2 Qxe2 18. Bxe2 Bf5 19. Nb3 Bc8 20. d5 Bd7 21. Bxg7 Kxg7 22. Na5 cxd5 23. cxd5 Rc8 24. Nxb7 Ba4 25. Rd2 Nxd5 26. Rxc8 Rxc8 27. Rxd5 Rc1+ 28. Kg2 Bc6 29. Bf3 Bxb7 30. Ra5 Bxf3+ 31. Kxf3 Rc7 32. e4 Kf6 33. Ke3 Ke6 34. Kd3 Kd7 35. e5 dxe5 36. Rxe5 Rc6 37. a4 a6 38. Re1 e6 39. Re4 Rb6 40. Kc4 Rc6+ 41. Kb3 Rd6 42. Kc3 Rb6 43. f4 h5 44. h4 f6 45. Rd4+ Ke7 46. Rc4 Kd7 47. Rc5 Rb8 48. b5 axb5 49. axb5 Ra8 50. Kb4 Ra1 51. b6 Kd6 52. Rc8 Rb1+ 53. Ka5 Rb3 54. Rc1 e5 55. fxe5+ fxe5 56. Rc4 Rxg3 57. b7 Rb3 58. Rb4 Rxb4 59. Kxb4 Kc7 60. Kc4 Kxb7 61. Kd5 Kc7 62. Kxe5 Kd7 63. Kf6 Ke8 64. Kxg6 Kf8 65. Kxh5 Kg7 66. Kg5 Kh8 67. h5 Kg8 68. h6 Kh7 69. Kf5 Kxh6 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.16"]
+[Round "2.3"]
+[White "Christiansen, Larry"]
+[Black "Taylor, Timothy"]
+[Result "1/2-1/2"]
+[ECO "D09"]
+[WhiteElo "2571"]
+[BlackElo "2147"]
+[PlyCount "78"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Nge7 6. Bg2 Ng6 7. O-O Ngxe5 8. Nxe5 Nxe5 9. b3 Bc5 10. Bb2 O-O 11. Nd2 Be7 12. Nf3 Nxf3+ 13. Bxf3 c5 14. e3 dxe3 15. fxe3 Bg5 16. Qxd8 Bxe3+ 17. Kh1 Rxd8 18. Rfe1 Bd4 19. Bxd4 cxd4 20. Rad1 Kf8 21. Bd5 Bg4 22. Rxd4 Bf3+ 23. Kg1 Rac8 24. Re5 Bxd5 25. Rexd5 Rxd5 26. Rxd5 Ke7 27. Kf2 Rc6 28. Ke3 Rh6 29. h4 Rf6 30. a4 b6 31. a5 h6 32. b4 Rg6 33. Re5+ Kd6 34. Rd5+ Ke7 35. Kf3 Rf6+ 36. Ke4 Re6+ 37. Kf3 Rf6+ 38. Ke2 Re6+ 39. Kf3 Rf6+ 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.16"]
+[Round "2.4"]
+[White "Akopian, Vladimir"]
+[Black "Shabalov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2586"]
+[BlackElo "2478"]
+[PlyCount "81"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bf5 5. c4 e6 6. cxd5 exd5 7. d3 Bc5 8. Qc2 Nbd7 9. Nh4 Be6 10. e4 Bb6 11. h3 Ne5 12. Bf4 Ng6 13. Bg5 Qd7 14. Kh2 Ng8 15. f4 Nxh4 16. Bxh4 f6 17. exd5 Bxd5 18. Bxd5 cxd5 19. Nc3 Ne7 20. Rae1 O-O 21. g4 Rad8 22. Na4 Bd4 23. Nc5 Rc8 24. Nxd7 Rxc2+ 25. Kh1 Re8 26. b4 b6 27. Nb8 Kf7 28. Na6 Rec8 29. b5 Rxa2 30. Bg3 Ra3 31. f5 Rxd3 32. Bd6 Ng8 33. Nb4 Rxh3+ 34. Kg2 Rcc3 35. Nc6 Be5 36. Bxe5 fxe5 37. Nxe5+ Kf8 38. Nd7+ Kf7 39. Ne5+ Kf8 40. Nd7+ Kf7 41. Ne5+ 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.16"]
+[Round "2.5"]
+[White "Kaidanov, Gregory"]
+[Black "Dlugy, Maxim"]
+[Result "1-0"]
+[ECO "B89"]
+[WhiteElo "2505"]
+[BlackElo "2514"]
+[PlyCount "123"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7 8. Qe2 O-O 9. O-O-O d5 10. Nf3 Nxe4 11. Nxe4 Qc7 12. Bd3 dxe4 13. Bxe4 e5 14. Qc4 Be6 15. Bd5 Bxd5 16. Rxd5 Rad8 17. Rxe5 Rc8 18. Re4 b5 19. Qe2 Nb4 20. Kb1 f5 21. Re6 Bf6 22. c3 Nd5 23. Rd1 Rfd8 24. Bg5 Qd7 25. Bxf6 Nxc3+ 26. bxc3 Qxd1+ 27. Qxd1 Rxd1+ 28. Kc2 Rd7 29. Bd4 b4 30. Re5 bxc3 31. Rxf5 Rb7 32. Ra5 Rb2+ 33. Kd3 Rc7 34. Rxa7 Rxa7 35. Bxa7 c2 36. Kd2 Rxa2 37. Be3 Kf7 38. Nd4 c1=Q+ 39. Kxc1 g5 40. h3 Kg6 41. Kb1 Ra8 42. Nf3 h6 43. Kc2 Rd8 44. Bd2 Rd6 45. Kd1 Re6 46. Be3 Ra6 47. Ke2 Kf5 48. g4+ Ke4 49. Nd2+ Kd5 50. Kf3 Ke5 51. Kg3 Kf6 52. Nf3 Ra5 53. h4 gxh4+ 54. Nxh4 h5 55. g5+ Ke5 56. Ng2 Ra1 57. Nf4 Rg1+ 58. Kh2 Rg4 59. f3 Rh4+ 60. Kg3 Rh1 61. Kg2 Rb1 62. Nxh5 1-0
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.17"]
+[Round "3.1"]
+[White "Dlugy, Maxim"]
+[Black "Benjamin, Joel"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2514"]
+[BlackElo "2473"]
+[PlyCount "61"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 Nf6 2. Bf4 c6 3. Nf3 Qb6 4. b3 d6 5. Nbd2 Bg4 6. h3 Bxf3 7. Nxf3 Nbd7 8. e3 e5 9. Bh2 d5 10. Nxe5 Qa5+ 11. Ke2 Ne4 12. Qd3 Nxe5 13. Bxe5 f6 14. Bh2 Ba3 15. f3 Nc3+ 16. Kf2 O-O 17. Bc7 b6 18. Qa6 Qb4 19. Bd3 Rf7 20. Bg3 Re8 21. Rae1 Rfe7 22. Rhf1 Nxa2 23. Ra1 Bc1 24. Bf4 Bxe3+ 25. Bxe3 Rxe3 26. Rxa2 Qxd4 27. Kg3 Qe5+ 28. Kf2 Qd4 29. Kg3 Qe5+ 30. Kf2 Qd4 31. Kg3 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.17"]
+[Round "3.2"]
+[White "Shabalov, Alexander"]
+[Black "Kaidanov, Gregory"]
+[Result "1-0"]
+[ECO "C13"]
+[WhiteElo "2478"]
+[BlackElo "2505"]
+[PlyCount "91"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 Nd7 8. c3 Be7 9. Qc2 c5 10. dxc5 Nxc5 11. Nxc5 Bxc5 12. Bb5+ Kf8 13. O-O Qc7 14. Rad1 a6 15. Bd3 g6 16. c4 Kg7 17. Qc3+ f6 18. b4 Be7 19. Be4 Bd7 20. Rfe1 Rhe8 21. a3 Rad8 22. h3 Bc8 23. c5 Rxd1 24. Rxd1 e5 25. Bd5 Rd8 26. Rd2 a5 27. Bb3 axb4 28. axb4 Rxd2 29. Nxd2 b6 30. Qc4 bxc5 31. Ne4 Qd7 32. bxc5 Qd8 33. c6 f5 34. Nc3 Qd2 35. Qf7+ Kh6 36. Qxe7 Qxc3 37. Qh4+ Kg7 38. Qe7+ Kh6 39. Qf8+ Kg5 40. Qd8+ Kh6 41. Qf8+ Kg5 42. h4+ Kf4 43. Bd5 g5 44. Qh6 Qe1+ 45. Kh2 e4 46. Qd6+ 1-0
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.17"]
+[Round "3.3"]
+[White "Taylor, Timothy"]
+[Black "Akopian, Vladimir"]
+[Result "0-1"]
+[ECO "E31"]
+[WhiteElo "2147"]
+[BlackElo "2586"]
+[PlyCount "84"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 h6 6. Bh4 d6 7. e3 Bxc3+ 8. bxc3 e5 9. Qc2 Qe7 10. Nf3 Kd8 11. Nd2 Nbd7 12. Bd3 Kc7 13. O-O g5 14. Bg3 h5 15. h4 Ng4 16. Nf3 f6 17. a4 a5 18. Rab1 Nh6 19. Rb5 b6 20. Rfb1 Rb8 21. R5b2 Ba6 22. Nd2 f5 23. hxg5 Qxg5 24. Nf3 Qg4 25. Be2 Qg6 26. Bh4 Nf7 27. Be7 h4 28. Nxh4 Rxh4 29. Bxh4 Rh8 30. Bg3 Ng5 31. Bg4 Qh6 32. f4 Ne4 33. Bh3 Nxg3 34. fxe5 Qxe3+ 35. Qf2 Qxe5 36. Re1 Qxc3 37. Re3 Qc1+ 38. Re1 Qg5 39. Rb3 f4 40. Rf3 Bxc4 41. Rxf4 Rxh3 42. gxh3 Ne2+ 0-1
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.17"]
+[Round "3.4"]
+[White "Fishbein, Alexander"]
+[Black "Christiansen, Larry"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "2368"]
+[BlackElo "2571"]
+[PlyCount "83"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 c6 2. Nf3 d5 3. d3 g6 4. Nbd2 Bg7 5. g3 Nh6 6. Bg2 O-O 7. O-O e5 8. c3 Na6 9. d4 f6 10. Re1 Nf7 11. dxe5 fxe5 12. Nb3 Bg4 13. h3 Be6 14. Be3 b6 15. exd5 cxd5 16. Bd4 exd4 17. Rxe6 dxc3 18. bxc3 Rc8 19. Rc1 Nc7 20. Nfd4 Qd7 21. Re2 Nd6 22. Qd3 Kh8 23. Rce1 Rce8 24. h4 Rxe2 25. Rxe2 Re8 26. Nc1 Ndb5 27. Bh3 Qxh3 28. Rxe8+ Nxe8 29. Qxb5 Nf6 30. Qc6 Qd7 31. Qa8+ Qe8 32. Qxa7 Ne4 33. Qxb6 Nxc3 34. Ne6 d4 35. Nd3 Qa8 36. Nxg7 Ne2+ 37. Kf1 Qf3 38. Qb8+ Kxg7 39. Qe5+ Kf7 40. Ne1 Nxg3+ 41. Qxg3 Qh1+ 42. Ke2 1-0
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.17"]
+[Round "3.5"]
+[White "Novikov, Igor"]
+[Black "Goldin, Alexander"]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[WhiteElo "2485"]
+[BlackElo "2541"]
+[PlyCount "87"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Bd6 6. Nc3 O-O 7. Qc2 Nc6 8. Bg2 dxc4 9. Nb5 Be7 10. Qxc4 Ne4 11. Rd1 Nd6 12. Nxd6 cxd6 13. d5 exd5 14. Qd3 Be6 15. Bc3 Bf6 16. O-O Rc8 17. Bxf6 Qxf6 18. Rd2 Rc7 19. Qa3 Qe7 20. Rfd1 Rfc8 21. Ne1 a6 22. Nd3 h6 23. Nf4 d4 24. b3 Na7 25. Qb4 Nb5 26. a4 Nc3 27. Re1 a5 28. Qxa5 Bxb3 29. Qb4 Bxa4 30. Qxd4 b5 31. Qb6 Rc4 32. Nd5 Nxd5 33. Bxd5 Rc2 34. Rxc2 Rxc2 35. e4 Qc7 36. Qa6 g6 37. Re3 Kg7 38. Rf3 f6 39. Kg2 Rc5 40. Qa8 Qc8 41. Qa7+ Qc7 42. Qa8 Qc8 43. Qa7+ Qc7 44. Qa8 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.18"]
+[Round "4.1"]
+[White "Benjamin, Joel"]
+[Black "Goldin, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2473"]
+[BlackElo "2541"]
+[PlyCount "65"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 d6 6. Bxc6+ bxc6 7. d4 Nd7 8. Qe2 a5 9. Be3 Ba6 10. Qd2 Be7 11. O-O-O f6 12. Nh4 g6 13. g3 Nb6 14. b3 exd4 15. Bxd4 c5 16. Bxc5 dxc5 17. Qh6 Bd6 18. Nxg6 Kf7 19. Nh4 Bc8 20. e5 fxe5 21. Ne4 Qf8 22. Qf6+ Ke8 23. Rxd6 cxd6 24. Nxd6+ Kd7 25. Nf7 Kc7 26. Qxe5+ Kb7 27. Nxh8 Bd7 28. Qe4+ Kc7 29. Qe5+ Kb7 30. Qe4+ Kc7 31. Qe5+ Kb7 32. Qe4+ Kc7 33. Qe5+ 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.18"]
+[Round "4.2"]
+[White "Christiansen, Larry"]
+[Black "Novikov, Igor"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2571"]
+[BlackElo "2485"]
+[PlyCount "147"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. h3 Bd6 7. Bd3 O-O 8. O-O e5 9. cxd5 cxd5 10. dxe5 Nxe5 11. b3 Nxf3+ 12. Qxf3 Be5 13. Bb2 Be6 14. Qe2 Bd7 15. Qd2 Qa5 16. a3 Rac8 17. b4 Qd8 18. Ne2 Qe7 19. Rac1 Rfd8 20. Rfd1 Rxc1 21. Rxc1 Rc8 22. Bd4 Bxd4 23. Nxd4 Qd8 24. Rc3 g6 25. Qc1 Ne8 26. Rc5 Rc7 27. Ne2 Qc8 28. Rxc7 Qxc7 29. Qb2 Qd6 30. Qd4 b6 31. Nc3 Bc6 32. Be2 Qf6 33. Qd3 Nc7 34. Bf1 Qe5 35. f4 Qf6 36. Kh2 Ne6 37. Nxd5 Bxd5 38. Qxd5 Qa1 39. Qd3 h5 40. Be2 h4 41. Bg4 f5 42. Bd1 Kh7 43. Qd7+ Ng7 44. Qd8 Qxa3 45. Qxh4+ Kg8 46. Qd8+ Kh7 47. Qe7 Qd3 48. Bf3 a5 49. bxa5 bxa5 50. Bc6 Kg8 51. Qe5 Qd8 52. e4 Kh7 53. Bd5 a4 54. exf5 Nxf5 55. Be6 Qd6 56. Qe4 Ng7 57. Bd5 Nh5 58. Qe5 Qxe5 59. fxe5 Kg7 60. g3 Kf8 61. Kg2 Ke7 62. Kf3 Ng7 63. g4 Ne6 64. h4 a3 65. h5 gxh5 66. gxh5 Ng5+ 67. Kg4 Nf7 68. Kf5 Kf8 69. e6 Nd6+ 70. Kg6 Nc8 71. Ba2 Ne7+ 72. Kg5 Kg7 73. h6+ Kf8 74. Bb3 1-0
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.18"]
+[Round "4.3"]
+[White "Akopian, Vladimir"]
+[Black "Fishbein, Alexander"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2586"]
+[BlackElo "2368"]
+[PlyCount "146"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. O-O Bg7 8. Re1 O-O 9. h3 Re8 10. Be3 h6 11. Nbd2 Bd7 12. a3 a5 13. Qc2 d5 14. exd5 Nxd5 15. Ne4 Nxe3 16. Rxe3 Ne7 17. c4 Nf5 18. Ree1 Bxa4 19. Qxa4 c6 20. Rad1 Nd4 21. Nxd4 Qxd4 22. Qc2 b6 23. c5 bxc5 24. Nxc5 f5 25. Re4 Qd5 26. Rc4 Rad8 27. Nb7 Rb8 28. Rc5 Qd4 29. Nxa5 Rxb2 30. Qc4+ Kh7 31. Qxd4 exd4 32. Rxc6 Ree2 33. Nc4 Ra2 34. Rf1 h5 35. h4 Bf8 36. Rc7+ Kg8 37. Rc8 Kf7 38. Rc7+ Be7 39. Rd7 Ke6 40. Rxd4 Bc5 41. Rf4 Rec2 42. g3 Kf6 43. Kg2 Ba7 44. a4 Kg7 45. a5 Kf6 46. Rf3 Re2 47. Nd6 Rxa5 48. Ne4+ Kg7 49. Ng5 Raa2 50. Nh3 Red2 51. Rc1 Rac2 52. Rxc2 Rxc2 53. Rf4 Rd2 54. Rc4 Bb6 55. Rc6 Bd4 56. Rd6 Bc5 57. Rd5 Be3 58. Kf3 Bh6 59. Ng5 Bxg5 60. hxg5 Ra2 61. Rd7+ Kg8 62. d4 Rd2 63. Ke3 Rd1 64. Kf4 Re1 65. f3 Kf8 66. d5 Re2 67. Rc7 Re1 68. d6 Ke8 69. d7+ Kd8 70. Rc6 Kxd7 71. Rxg6 Rf1 72. Rh6 Ke7 73. Rxh5 Kf7 1-0
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.18"]
+[Round "4.4"]
+[White "Kaidanov, Gregory"]
+[Black "Taylor, Timothy"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2505"]
+[BlackElo "2147"]
+[PlyCount "106"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Bg4 4. c4 e6 5. dxe6 Bxf3 6. Qxf3 Nc6 7. d3 Nd4 8. Qd1 Qe7 9. Be2 Qxe6 10. Be3 Bc5 11. Nc3 O-O-O 12. O-O Rhe8 13. Bxd4 Bxd4 14. Bf3 c6 15. Qd2 Be5 16. Rad1 Ng4 17. Bxg4 Qxg4 18. Rfe1 f5 19. h3 Qh5 20. Ne2 g5 21. d4 g4 22. Qc3 gxh3 23. gxh3 f4 24. dxe5 Rxd1 25. Rxd1 Qxe2 26. Qd4 Qxe5 27. Qxe5 Rxe5 28. Kf1 f3 29. Rd3 Re2 30. b3 Rxa2 31. Rxf3 Rb2 32. Ke1 Kc7 33. Kd1 Kb6 34. Kc1 Re2 35. Rf5 Re4 36. Rh5 Rf4 37. Rxh7 Rxf2 38. Rh5 c5 39. h4 Ka5 40. Rxc5+ Kb4 41. Rb5+ Kc3 42. Kd1 b6 43. h5 Rh2 44. Ke1 a6 45. Rxb6 Rxh5 46. Ke2 a5 47. Rb5 Rh2+ 48. Ke3 a4 49. bxa4 Kxc4 50. Rg5 Ra2 51. a5 Kb4 52. Kd3 Rxa5 53. Rxa5 Kxa5 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.18"]
+[Round "4.5"]
+[White "Dlugy, Maxim"]
+[Black "Shabalov, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D13"]
+[WhiteElo "2514"]
+[BlackElo "2478"]
+[PlyCount "164"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 a6 7. Nf3 Bg4 8. Be2 e6 9. O-O Be7 10. h3 Bh5 11. Rc1 O-O 12. Na4 Ne4 13. Nd2 Nxd2 14. Qxd2 Bxe2 15. Qxe2 Qa5 16. Qc2 Rfc8 17. Qb3 b5 18. Nc5 b4 19. Bg3 Qb5 20. Qa4 Nxd4 21. Qxb5 Nxb5 22. Na4 Bd8 23. Rfd1 h5 24. f3 Bf6 25. Nb6 Rxc1 26. Rxc1 Rd8 27. Na4 d4 28. e4 d3 29. Rd1 b3 30. axb3 Nd4 31. Bc7 Rd7 32. e5 Rxc7 33. exf6 Rc2 34. Rxd3 Ne2+ 35. Kf1 gxf6 36. h4 f5 37. Rd6 Ng3+ 38. Ke1 Kg7 39. Rd2 Rc1+ 40. Rd1 Rc7 41. Rd4 Rc2 42. Rd2 Rc1+ 43. Rd1 Rc6 44. Rd4 e5 45. Rc4 Rd6 46. Nc3 f4 47. Ne4 Nxe4 48. Rxe4 Kf6 49. Rc4 Rb6 50. Rc8 Kf5 51. Rh8 Rxb3 52. Rxh5+ Ke6 53. Kf1 Rxb2 54. Rh6+ f6 55. Rh7 Kf5 56. Rg7 a5 57. h5 Rb1+ 58. Kf2 Rh1 59. Ra7 Rxh5 60. Rxa5 Rh8 61. Ra2 Rb8 62. g3 Rh8 63. g4+ Kg5 64. Ra7 Kg6 65. Kg2 Rd8 66. Rb7 Ra8 67. Rc7 Ra2+ 68. Kf1 Rh2 69. Ra7 Rh7 70. Ra8 Rb7 71. Kf2 Rc7 72. Rb8 Kf7 73. Rb6 Rd7 74. Ra6 Rd2+ 75. Ke1 Rb2 76. Kf1 Kg6 77. Ra8 e4 78. Ra4 Rb1+ 79. Ke2 Rb2+ 80. Kf1 Rb1+ 81. Ke2 Rb2+ 82. Kf1 Rb1+ 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.19"]
+[Round "5.1"]
+[White "Shabalov, Alexander"]
+[Black "Benjamin, Joel"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "2478"]
+[BlackElo "2473"]
+[PlyCount "131"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 Nbd7 4. Nd2 e5 5. dxe5 Nxe5 6. Qe2 Be7 7. O-O-O h6 8. Bxf6 Bxf6 9. e4 O-O 10. f4 Ng6 11. g3 dxe4 12. Nxe4 Qe7 13. Qf3 Bf5 14. Bd3 Bxe4 15. Bxe4 Rfe8 16. Bxg6 fxg6 17. Qb3+ Qe6 18. Nf3 Qxb3 19. axb3 Re3 20. Rhf1 Rae8 21. c3 Kf7 22. Rd7+ R8e7 23. Rxe7+ Rxe7 24. Kd2 Rd7+ 25. Ke3 Re7+ 26. Kd3 Rd7+ 27. Ke4 Rd8 28. b4 Re8+ 29. Kd3 Rd8+ 30. Kc4 a6 31. g4 Rd6 32. h4 Rc6+ 33. Kd5 Rd6+ 34. Kc4 Rc6+ 35. Kb3 Re6 36. g5 Be7 37. Ne5+ Kg8 38. Re1 Bd6 39. Kc4 c6 40. Kd4 Re8 41. Rg1 hxg5 42. Rxg5 Be7 43. Rg4 Rd8+ 44. Kc4 Rd5 45. Kb3 Bf6 46. Nxg6 Kf7 47. Kc2 Ke6 48. Rg2 Rh5 49. Kd3 Kf5 50. Ke3 Rh6 51. Ne5 Rxh4 52. Nd3 b6 53. Kd2 Ke4 54. Re2+ Kd5 55. Kc2 c5 56. bxc5 bxc5 57. b3 a5 58. c4+ Kd6 59. f5 Bd4 60. Re6+ Kc7 61. Re7+ Kb6 62. Re6+ Kb7 63. Re7+ Kb6 64. Re6+ Kb7 65. Re7+ Kb6 66. Re6+ 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.19"]
+[Round "5.2"]
+[White "Taylor, Timothy"]
+[Black "Dlugy, Maxim"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2147"]
+[BlackElo "2514"]
+[PlyCount "71"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 g6 4. Bxf6 exf6 5. e3 Bg7 6. Bd3 O-O 7. c3 f5 8. O-O Be6 9. Qb3 b6 10. c4 Nc6 11. Qa4 dxc4 12. Bxc4 Bxc4 13. Qxc4 Na5 14. Qa4 c5 15. Nc3 f4 16. dxc5 fxe3 17. cxb6 axb6 18. fxe3 Qd3 19. Qh4 Rae8 20. Rad1 Qxe3+ 21. Kh1 Qe7 22. Qxe7 Rxe7 23. Nd5 Re2 24. b4 Nc4 25. a4 Ne3 26. Ng1 Nxf1 27. Nxe2 Re8 28. Rxf1 Rxe2 29. Nxb6 Rb2 30. Nd5 Bf8 31. b5 Bd6 32. g3 Ra2 33. Rd1 Be5 34. Ne7+ Kg7 35. Nc6 Bc3 36. Rb1 1-0
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.19"]
+[Round "5.3"]
+[White "Fishbein, Alexander"]
+[Black "Kaidanov, Gregory"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2368"]
+[BlackElo "2505"]
+[PlyCount "131"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 c5 6. c3 Bd6 7. Qe2+ Be6 8. Ng5 Qe7 9. Nxe6 fxe6 10. Nd2 Nc6 11. Nf3 O-O 12. O-O e5 13. dxe5 Nxe5 14. Nxe5 Qxe5 15. Qxe5 Bxe5 16. Be3 Rac8 17. Bf5 Rc6 18. Rfe1 Re8 19. Bc2 Rc7 20. Ba4 Ree7 21. Rad1 a6 22. g3 Kf8 23. Kg2 b6 24. h3 h6 25. f4 Bd6 26. Kf3 Rc8 27. g4 b5 28. Bc2 d4 29. cxd4 Nd5 30. Bd2 cxd4 31. Bb3 Nb6 32. Rxe7 Bxe7 33. Be1 Nc4 34. Rxd4 Nxb2 35. Be6 Rc6 36. f5 Na4 37. Bb3 Nc5 38. Bd1 Bf6 39. Rd5 Ke8 40. Bb4 Nd7 41. Bb3 Bc3 42. Bd6 Bf6 43. Bb4 Bc3 44. Ba3 Ne5+ 45. Ke2 Nc4 46. Rc5 Kd7 47. Rd5+ Ke8 48. Bc1 Bf6 49. Bf4 Na5 50. Bd1 Nc4 51. Bb3 Na5 52. Bd1 Nc4 53. Bg3 Nb2 54. Bb3 Rc3 55. Be5 Bxe5 56. Rxe5+ Kf8 57. Re6 a5 58. Rb6 a4 59. Be6 Rc2+ 60. Kf3 Rc3+ 61. Ke4 Rxh3 62. Rxb5 Nd3 63. Rb8+ Ke7 64. Rb7+ Kd6 65. Rd7+ Kc6 66. Rxd3 1-0
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.19"]
+[Round "5.4"]
+[White "Novikov, Igor"]
+[Black "Akopian, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D18"]
+[WhiteElo "2485"]
+[BlackElo "2586"]
+[PlyCount "29"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O Nbd7 9. Qb3 a5 10. Na2 Be7 11. Qxb7 Rb8 12. Qa6 Ra8 13. Qb7 Rb8 14. Qa6 Ra8 15. Qb7 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.19"]
+[Round "5.5"]
+[White "Goldin, Alexander"]
+[Black "Christiansen, Larry"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[WhiteElo "2541"]
+[BlackElo "2571"]
+[PlyCount "150"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. a3 Be7 6. Nc3 Nf6 7. Bg5 Nbd7 8. e3 O-O 9. Bd3 b6 10. O-O Bb7 11. Qe2 c5 12. Rfd1 Ne4 13. Bf4 cxd4 14. exd4 Nxc3 15. bxc3 dxc4 16. Bxc4 Nf6 17. Bd3 Nd5 18. Bd2 Qc7 19. c4 Nf4 20. Bxf4 Qxf4 21. Qe3 Qc7 22. Ne5 Rad8 23. Be2 Rd6 24. h3 Rfd8 25. Rac1 Ba8 26. Bh5 g6 27. Be2 Bf6 28. f4 Bg7 29. Kh1 Bf6 30. Rd3 Kg7 31. Rcd1 Bc6 32. Ng4 Be7 33. Ne5 Ba4 34. Rc1 Bf6 35. Bf3 h5 36. g3 Be8 37. g4 hxg4 38. hxg4 Kg8 39. Kg2 Bg7 40. g5 Qe7 41. Rh1 Bd7 42. Be4 Ba4 43. Qf2 Qc7 44. Kg3 Be8 45. Kg4 Qe7 46. Qh2 f5+ 47. gxf6 Qxf6 48. Qd2 Bf7 49. Kg3 Kf8 50. Rh4 Ke8 51. Rh7 Kf8 52. Rh4 Ke8 53. Rg4 g5 54. Rxg5 Bh6 55. Ng4 Bxg5 56. Nxf6+ Bxf6 57. d5 Ke7 58. Kf2 Rh8 59. Bg2 Bg6 60. Re3 Bf5 61. Kf1 Rc8 62. Be4 Rxc4 63. Bxf5 Rxf4+ 64. Kg2 Rxf5 65. Rxe6+ Rxe6 66. dxe6 Kxe6 67. Qe3+ Be5 68. Qxb6+ Bd6 69. a4 Re5 70. Qc6 Ke7 71. Kf3 Bb4 72. Qc7+ Ke6 73. Qc6+ Ke7 74. Qc7+ Ke6 75. Qc6+ Ke7 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.21"]
+[Round "6.1"]
+[White "Benjamin, Joel"]
+[Black "Christiansen, Larry"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2473"]
+[BlackElo "2571"]
+[PlyCount "41"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. e5 Nd5 7. d4 cxd4 8. cxd4 O-O 9. Nc3 Nxc3 10. bxc3 d6 11. exd6 Qxd6 12. a4 Bg4 13. h3 Bxf3 14. Qxf3 Rfc8 15. Ba3 Qd8 16. Rab1 Na5 17. Bb4 Nc6 18. Bc5 Na5 19. Bb4 Nc6 20. Bc5 Na5 21. Bb4 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.21"]
+[Round "6.2"]
+[White "Akopian, Vladimir"]
+[Black "Goldin, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2586"]
+[BlackElo "2541"]
+[PlyCount "81"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. a3 Be6 8. Nc3 Bxc4 9. dxc4 Nb8 10. g3 Nbd7 11. Nh4 g6 12. Bh6 Re8 13. Ng2 c6 14. Ne3 Bf8 15. Bg5 h6 16. Bxf6 Qxf6 17. h4 h5 18. g4 Qxh4 19. gxh5 Nf6 20. hxg6 fxg6 21. Qf3 Bh6 22. Rad1 Re6 23. Ng2 Qh5 24. Qxh5 Nxh5 25. Rd3 Bg5 26. Red1 Be7 27. Rf3 Rf6 28. Rxf6 Nxf6 29. Ne3 Kf7 30. Kg2 Ke6 31. Rh1 Nh5 32. Ne2 Rf8 33. a4 Bd8 34. b3 Nf6 35. Ng3 Bb6 36. Nd1 Bd4 37. Rh6 Kf7 38. Rh1 Ke6 39. Rh6 Kf7 40. Rh1 Ke6 41. Rh6 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.21"]
+[Round "6.3"]
+[White "Kaidanov, Gregory"]
+[Black "Novikov, Igor"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[WhiteElo "2505"]
+[BlackElo "2485"]
+[PlyCount "78"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. Be3 Qc7 8. Qd2 b5 9. a3 Bb7 10. f3 Nc6 11. O-O-O Nxd4 12. Bxd4 Bc6 13. g4 Qb7 14. g5 Nd7 15. Kb1 b4 16. axb4 Qxb4 17. Na2 Qxd2 18. Rxd2 h6 19. Be3 hxg5 20. Bxg5 Rh3 21. Bf4 Ne5 22. Bg3 g5 23. Rhd1 f6 24. Rd4 Rh7 25. Nc3 Rb7 26. b3 Bb5 27. Nxb5 axb5 28. Kb2 Kd7 29. c3 Kc6 30. Ra1 Rxa1 31. Kxa1 Ng6 32. Kb1 Nf4 33. Bf1 Nh5 34. Bh3 Nxg3 35. hxg3 Kd7 36. Bf1 Kc6 37. Bh3 Kd7 38. Bf1 Kc6 39. Bh3 Kd7 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.21"]
+[Round "6.4"]
+[White "Dlugy, Maxim"]
+[Black "Fishbein, Alexander"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2514"]
+[BlackElo "2368"]
+[PlyCount "179"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. g3 d5 7. Bg2 a5 8. O-O a4 9. Qc2 c5 10. cxd5 cxd4 11. dxe6 Bxe6 12. b4 axb3 13. Nxb3 d3 14. exd3 Nc6 15. Rd1 Rc8 16. Qb2 Nd5 17. d4 Bf6 18. Bd2 Nb6 19. Qb1 Bd5 20. Be3 Na4 21. Rc1 Re8 22. Qd3 Nb2 23. Qb5 Na7 24. Qe2 Nc4 25. Nbd2 Nxe3 26. fxe3 Rxc1+ 27. Rxc1 Qb6 28. Qd3 Qb5 29. Qxb5 Nxb5 30. e4 Nxd4 31. Kf1 Bc6 32. e5 Nxf3 33. Bxf3 Bb5+ 34. Kf2 Bxe5 35. Bxb7 Bb2 36. Rc8 Rxc8 37. Bxc8 Bxa3 38. Bb7 Bb4 39. Nf3 Bc5+ 40. Kg2 Bc4 41. Nd2 Be6 42. Ne4 Be7 43. Nc3 g6 44. Bd5 Bd7 45. Bf3 Kg7 46. Nd5 Bc5 47. Nf4 Kf6 48. Nd3 Bd4 49. Be4 Bb5 50. Ne1 Bc3 51. Nf3 Bd7 52. h3 h6 53. Bd5 Ke7 54. g4 Be8 55. Be4 Kd6 56. Kg3 Bd7 57. Kf4 Bb2 58. Kg3 Bc1 59. Bb7 Be3 60. Be4 Be6 61. Bb7 Bc4 62. Be4 Bf1 63. h4 Bc4 64. Bb7 Be6 65. Be4 Bd7 66. Bb7 f6 67. Be4 Be8 68. Bd3 Kd5 69. Bc2 Kc4 70. Bb1 Kc3 71. Be4 Kb2 72. Bd3 Kc1 73. g5 hxg5 74. hxg5 f5 75. Nh4 Kd2 76. Bb1 Bxg5 77. Nxf5 gxf5 78. Bxf5 Ke3 79. Bc8 Bh5 80. Bg4 Bf4+ 81. Kh3 Bf7 82. Bd7 Bd5 83. Kg4 Ke4 84. Bf5+ Ke5 85. Bc8 Bb3 86. Bb7 Bd1+ 87. Kh3 Kd4 88. Kg2 Ke3 89. Bc6 Bg3 90. Kxg3 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.21"]
+[Round "6.5"]
+[White "Shabalov, Alexander"]
+[Black "Taylor, Timothy"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2478"]
+[BlackElo "2147"]
+[PlyCount "55"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 g6 4. b4 Bg7 5. Bb2 O-O 6. c4 d6 7. O-O e5 8. d3 Nc6 9. b5 Ne7 10. Nc3 a6 11. a4 axb5 12. axb5 Rxa1 13. Qxa1 b6 14. Qa7 e4 15. Nd4 exd3 16. exd3 f4 17. Re1 Ng4 18. Nd5 Nxd5 19. Bxd5+ Kh8 20. Nc6 Bxb2 21. Nxd8 fxg3 22. hxg3 Rxf2 23. Re8+ Kg7 24. Qxc7+ Kh6 25. Nf7+ Kh5 26. Ne5 Bd4 27. Qxh7+ Nh6 28. Qxg6# 1-0
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.22"]
+[Round "7.1"]
+[White "Taylor, Timothy"]
+[Black "Benjamin, Joel"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "2147"]
+[BlackElo "2473"]
+[PlyCount "108"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. f4 d5 2. Nf3 g6 3. g3 Bg7 4. Bg2 c6 5. d3 Nh6 6. e4 dxe4 7. dxe4 Qxd1+ 8. Kxd1 Na6 9. h3 Be6 10. Na3 Nc5 11. Ng5 Rd8+ 12. Ke2 Bc8 13. c3 b6 14. h4 Ba6+ 15. c4 O-O 16. Rb1 b5 17. b3 Nd3 18. Rd1 Nb4 19. Bd2 Nxa2 20. Ba5 Rxd1 21. Rxd1 Bc3 22. Bc7 Bb2 23. Nb1 bxc4 24. bxc4 Bxc4+ 25. Kf3 f6 26. Nh3 Be6 27. Nf2 Nb4 28. g4 c5 29. f5 Bc8 30. Bf1 Nf7 31. Bc4 Kg7 32. Nd3 Nxd3 33. Bxd3 Be5 34. Ba5 Bd6 35. Be2 Ne5+ 36. Ke3 c4 37. Nd2 Ba6 38. Bc3 Bc5+ 39. Bd4 Bxd4+ 40. Kxd4 Rd8+ 41. Kc3 Bb5 42. Ra1 a6 43. g5 Rc8 44. Nf3 Nxf3 45. Bxf3 Rd8 46. Be2 gxf5 47. exf5 Rd5 48. Rf1 Re5 49. Rf2 Re3+ 50. Kd4 Rh3 51. gxf6+ Kxf6 52. h5 c3 53. Bxb5 axb5 54. Kc5 Rxh5 0-1
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.22"]
+[Round "7.2"]
+[White "Fishbein, Alexander"]
+[Black "Shabalov, Alexander"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2368"]
+[BlackElo "2478"]
+[PlyCount "65"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 e6 6. Bd3 Nf6 7. Nc3 Qc7 8. O-O a6 9. f4 d6 10. Qf3 Be7 11. Bd2 Nb4 12. Nb5 Qb6+ 13. Be3 Qd8 14. N5d4 Nxd3 15. cxd3 O-O 16. Rac1 a5 17. Rc2 Bd7 18. Rfc1 g6 19. h3 Ra6 20. Qf2 Re8 21. Nf3 Bf8 22. Bd4 Nh5 23. Be3 Bb5 24. Qd2 e5 25. fxe5 dxe5 26. Nc5 Rc6 27. a4 Bxc5 28. Rxc5 Bxa4 29. Nxe5 Rxc5 30. Rxc5 b6 31. Rd5 Qc7 32. Ng4 Rd8 33. Qc3 1-0
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.22"]
+[Round "7.3"]
+[White "Novikov, Igor"]
+[Black "Dlugy, Maxim"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[WhiteElo "2485"]
+[BlackElo "2514"]
+[PlyCount "175"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Nc3 Nf6 6. Nxe5 b5 7. f3 a6 8. a4 Bb7 9. Be2 Nfd7 10. Ng4 Nc6 11. Be3 Na5 12. Qc2 O-O 13. axb5 axb5 14. O-O c6 15. Rad1 Nb3 16. d5 Bxc3 17. dxc6 Nd4 18. Bxd4 Bxd4+ 19. Rxd4 Qb6 20. Rfd1 Bxc6 21. Kf1 Qc7 22. Rd6 Nc5 23. Ne3 Nb7 24. R6d4 Qxh2 25. b3 Nc5 26. bxc4 b4 27. Qb2 Nxe4 28. fxe4 Qf4+ 29. Bf3 Qxe3 30. Qxb4 Rfe8 31. Qd2 Qa3 32. Qd3 Qc5 33. Rd6 Rac8 34. Qd4 Qg5 35. Qd2 Qh4 36. Qf2 Qf4 37. R6d4 g6 38. Kg1 h5 39. Qd2 Qg3 40. Qf2 Qe5 41. g3 Qg5 42. Bg2 Qe7 43. Rf1 Bd7 44. e5 Bf5 45. Re1 Qc7 46. Qf4 Re7 47. Kh2 Rce8 48. Rd5 Be6 49. Rd4 Bf5 50. Rd5 Bc8 51. Rd4 Kh7 52. Bd5 Bf5 53. Rd2 Be6 54. Rde2 Rd8 55. Rd2 Red7 56. Red1 Bg4 57. Re1 Re8 58. Qf6 Qa5 59. Qf4 Be6 60. Ree2 Red8 61. Rf2 Qb4 62. Qf6 Qe7 63. Qf4 Kg8 64. Qe4 Qc5 65. Qf4 Qe7 66. Qe4 Qg5 67. Rd1 Re7 68. Re1 Rde8 69. Qf4 Qg4 70. Rfe2 Qh3+ 71. Kg1 Bf5 72. Bf3 Bd3 73. Re3 Bxc4 74. Qxc4 Qxg3+ 75. Bg2 Qg5 76. Qd4 Re6 77. Kh2 Rd8 78. Qe4 Rd2 79. R1e2 Rxe2 80. Rxe2 Kg7 81. Qd4 Kh7 82. Qf2 f6 83. exf6 Rxe2 84. Qxe2 Qxf6 85. Qf3 Qxf3 86. Bxf3 g5 87. Bxh5 g4 88. Bxg4 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.22"]
+[Round "7.4"]
+[White "Goldin, Alexander"]
+[Black "Kaidanov, Gregory"]
+[Result "1/2-1/2"]
+[ECO "D04"]
+[WhiteElo "2541"]
+[BlackElo "2505"]
+[PlyCount "94"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 c5 4. Nbd2 Nc6 5. dxc5 e6 6. a3 a5 7. b3 Bxc5 8. Bb2 O-O 9. Bb5 Qe7 10. O-O Bd6 11. Qe2 e5 12. e4 Nxe4 13. Nxe4 dxe4 14. Qxe4 f5 15. Qh4 Qxh4 16. Nxh4 Be7 17. Nf3 e4 18. Bc4+ Kh8 19. Nd4 Bf6 20. Rad1 f4 21. h3 Nxd4 22. Bxd4 Bf5 23. Bxf6 gxf6 24. Rd4 a4 25. f3 exf3 26. Rxf3 Bxc2 27. b4 Rad8 28. Rdxf4 Rd6 29. Rc3 Bd1 30. Re3 Rfd8 31. Re7 b6 32. Be6 Bc2 33. Rxf6 Bb3 34. Rh6 Bxe6 35. Rhxe6 Rxe6 36. Rxe6 Rd3 37. Rxb6 Rxa3 38. Ra6 Ra2 39. Ra7 a3 40. Kh2 Rb2 41. Rxa3 Rxb4 42. Kh1 Kg7 43. Kh2 Kg6 44. Kh1 Kg7 45. Kh2 Kg6 46. Kh1 Kg7 47. Kh2 Kg6 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.22"]
+[Round "7.5"]
+[White "Christiansen, Larry"]
+[Black "Akopian, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2571"]
+[BlackElo "2586"]
+[PlyCount "88"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6 7. Bc4 Nc6 8. O-O Be7 9. Qe2 O-O 10. Rd1 Na5 11. Bxd5 exd5 12. Nc3 Be6 13. Bf4 Rc8 14. Nb5 dxe5 15. dxe5 a6 16. Nbd4 Nc6 17. h3 Nxd4 18. Nxd4 Bc5 19. Be3 Bxd4 20. Bxd4 Qg5 21. Rd3 Rc1+ 22. Rxc1 Qxc1+ 23. Rd1 Qg5 24. Qe3 Qxe3 25. Bxe3 Rc8 26. Rc1 Rxc1+ 27. Bxc1 d4 28. b3 h5 29. f3 a5 30. Bb2 d3 31. Bc3 a4 32. bxa4 Bxa2 33. a5 f6 34. exf6 gxf6 35. Kf2 Kf7 36. Ke3 Bc4 37. Bd2 f5 38. Kd4 Bb5 39. Ke5 Kg6 40. Kf4 Bd7 41. Ke3 Bb5 42. Kf4 Bd7 43. Ke3 Bb5 44. Kf4 Bd7 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.23"]
+[Round "8.1"]
+[White "Benjamin, Joel"]
+[Black "Akopian, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2473"]
+[BlackElo "2586"]
+[PlyCount "90"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Bd3 Nf6 6. O-O Be7 7. c3 O-O 8. Bc2 Bg4 9. d4 c5 10. Qd3 Bh5 11. Nh4 Nc6 12. Bg5 Bg6 13. Nxg6 hxg6 14. dxc5 dxc5 15. Na3 Qxd3 16. Bxd3 Nd5 17. Bd2 Rad8 18. Rad1 Ne5 19. Be2 g5 20. g3 Nb6 21. Be3 Na4 22. Bc1 a6 23. f4 gxf4 24. gxf4 Ng6 25. Nc4 b5 26. f5 Nh4 27. Ne5 c4 28. Nd7 Rfe8 29. Bg4 Nc5 30. Nxc5 Bxc5+ 31. Kh1 Rxd1 32. Rxd1 g6 33. fxg6 Nxg6 34. Kg2 Kg7 35. Rf1 Re5 36. Rd1 Be3 37. Bxe3 Rxe3 38. Kf2 Re5 39. Re1 Rg5 40. Be2 Rf5+ 41. Ke3 Re5+ 42. Kd2 Rd5+ 43. Ke3 Re5+ 44. Kd2 Rd5+ 45. Ke3 Re5+ 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.23"]
+[Round "8.2"]
+[White "Kaidanov, Gregory"]
+[Black "Christiansen, Larry"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "2505"]
+[BlackElo "2571"]
+[PlyCount "112"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Nc3 O-O 6. a3 d6 7. Be3 Be6 8. Nd5 Bxd5 9. exd5 Nb8 10. Ba2 Nbd7 11. d4 Ng4 12. Bc1 e4 13. Nd2 Ngf6 14. O-O Re8 15. Re1 Bf8 16. Nf1 h6 17. c4 c6 18. dxc6 bxc6 19. Bd2 a5 20. Bc3 a4 21. Bb1 Nb6 22. Ne3 g6 23. Bc2 Nfd7 24. f3 Nf6 25. f4 Bg7 26. Rf1 Qc7 27. f5 g5 28. Kh1 d5 29. c5 Nc4 30. Nxc4 dxc4 31. Qe2 e3 32. Rae1 Re7 33. Qxc4 Rae8 34. Re2 h5 35. g3 Ne4 36. Bxe4 Rxe4 37. f6 Bh6 38. Qxa4 h4 39. Kg2 Qd7 40. Qc4 Qg4 41. Qd3 Qe6 42. d5 cxd5 43. Bd4 Bf8 44. h3 g4 45. Rh1 Bh6 46. b4 Bg5 47. b5 gxh3+ 48. Rxh3 Qg4 49. Bc3 Rf4 50. Rb2 Qf3+ 51. Kg1 e2 52. Qxf3 Rxf3 53. Bb4 Bxf6 54. Rc2 Bd4+ 55. Kh1 Rf1+ 56. Kg2 Rf2+ 0-1
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.23"]
+[Round "8.3"]
+[White "Dlugy, Maxim"]
+[Black "Goldin, Alexander"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2514"]
+[BlackElo "2541"]
+[PlyCount "92"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 d5 2. Bf4 c5 3. Nc3 Nc6 4. e4 cxd4 5. exd5 dxc3 6. dxc6 Qxd1+ 7. Rxd1 bxc6 8. Bc7 e6 9. Rd8+ Ke7 10. bxc3 Nf6 11. Rd1 Nd5 12. Ba5 f6 13. Bc4 Kf7 14. Ne2 Bc5 15. O-O Bb6 16. Bb4 c5 17. Ba3 Bb7 18. Nf4 Rhd8 19. Nxd5 Bxd5 20. Bxd5 Rxd5 21. c4 Rxd1 22. Rxd1 Ke7 23. Kf1 Rc8 24. Rd3 h5 25. Bc1 Rc6 26. Be3 Rd6 27. Ke2 Kd7 28. Kf3 Kc6 29. h4 Bc7 30. Ra3 Bb6 31. Rd3 Kd7 32. g4 g6 33. g5 f5 34. Bf4 Rxd3+ 35. cxd3 Bc7 36. Be3 Kc6 37. d4 cxd4 38. Bxd4 Bb6 39. Bb2 Kc5 40. Kf4 Bc7+ 41. Be5 Bd6 42. a3 Kc6 43. a4 a5 44. f3 Kc5 45. Bxd6+ Kxd6 46. c5+ Kd5 0-1
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.23"]
+[Round "8.4"]
+[White "Shabalov, Alexander"]
+[Black "Novikov, Igor"]
+[Result "1-0"]
+[ECO "B87"]
+[WhiteElo "2478"]
+[BlackElo "2485"]
+[PlyCount "45"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Nbd7 12. Rad1 g6 13. f4 b4 14. f5 bxc3 15. fxe6 fxe6 16. Nxe6 Nh5 17. Qe1 Ndf6 18. Qxc3 Bd7 19. Nc7+ Kd8 20. Nxa8 Qxa8 21. e5 dxe5 22. Qxe5 Qc6 23. Ba4 1-0
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.23"]
+[Round "8.5"]
+[White "Taylor, Timothy"]
+[Black "Fishbein, Alexander"]
+[Result "1/2-1/2"]
+[ECO "E30"]
+[WhiteElo "2147"]
+[BlackElo "2368"]
+[PlyCount "139"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 d6 6. e3 exd5 7. cxd5 Nbd7 8. Bd3 Qa5 9. Nge2 Nxd5 10. O-O Bxc3 11. bxc3 c4 12. Bc2 O-O 13. Bh4 Nxc3 14. Nxc3 Qxc3 15. Rc1 Qa5 16. Qxd6 Re8 17. Rfd1 Nf8 18. Rd5 Qxa2 19. Qb4 c3 20. Bb3 Qb2 21. Rdd1 Be6 22. Rb1 Qe2 23. Qxc3 Bxb3 24. Qxb3 b6 25. h3 h6 26. Rd6 Ne6 27. Rd7 Qh5 28. Be7 Rec8 29. Qa4 Qg6 30. Rbd1 a6 31. Qb3 Rc6 32. Qd5 Rac8 33. Kh2 b5 34. f4 Nc7 35. f5 Nxd5 36. fxg6 Nc7 37. Rd8+ Ne8 38. Rf1 f6 39. Rfd1 a5 40. R1d7 b4 41. Rb7 Rxd8 42. Bxd8 Nd6 43. Rd7 Kf8 44. Be7+ Ke8 45. Rxd6 Rc8 46. Bxf6 gxf6 47. Ra6 b3 48. Rxa5 Rb8 49. Ra1 f5 50. Rb1 b2 51. Kg3 Ke7 52. g7 Kf7 53. Kf4 Rb5 54. e4 fxe4 55. Kxe4 Kxg7 56. Kd4 Kf6 57. Kc3 Ke5 58. Rxb2 Rxb2 59. Kxb2 Kf4 60. Kc2 Kg3 61. Kd2 Kxg2 62. h4 h5 63. Ke2 Kg3 64. Kf1 Kxh4 65. Kg2 Kg5 66. Kh3 h4 67. Kg2 Kg4 68. Kh2 Kf5 69. Kh3 Ke6 70. Kxh4 1/2-1/2
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.24"]
+[Round "9.1"]
+[White "Fishbein, Alexander"]
+[Black "Benjamin, Joel"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2368"]
+[BlackElo "2473"]
+[PlyCount "87"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. c4 e6 2. Nc3 Bb4 3. e4 Ne7 4. Nf3 O-O 5. d4 d5 6. Bd3 c5 7. a3 Ba5 8. cxd5 cxd4 9. Nxd4 exd5 10. O-O Bb6 11. Be3 Nbc6 12. Nxc6 bxc6 13. Bxb6 Qxb6 14. Qc2 h6 15. Rac1 Rb8 16. Na4 Qb3 17. exd5 Nxd5 18. Qxb3 Rxb3 19. Rfd1 Nb6 20. Bc2 Rb5 21. b4 Re5 22. Bb3 Rfe8 23. Nc5 Re2 24. Kf1 Bf5 25. Re1 Rxe1+ 26. Rxe1 Rxe1+ 27. Kxe1 Kf8 28. Kd2 Ke7 29. Ke3 f6 30. Kd4 Kd6 31. h4 Nd7 32. Ne4+ Bxe4 33. Kxe4 Nb6 34. Kf5 Ke7 35. a4 Nc8 36. Bd1 Nd6+ 37. Kg6 Kf8 38. Bf3 Nc4 39. Kf5 Ne5 40. Ke6 Ke8 41. Kd6 Kd8 42. Be2 Ng6 43. g3 Ne7 44. Bc4 1-0
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.24"]
+[Round "9.2"]
+[White "Novikov, Igor"]
+[Black "Taylor, Timothy"]
+[Result "1-0"]
+[ECO "D06"]
+[WhiteElo "2485"]
+[BlackElo "2147"]
+[PlyCount "79"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Qxd5 4. Nf3 cxd4 5. Nc3 Qa5 6. Nxd4 Nf6 7. a3 e5 8. Nb3 Qc7 9. e4 Bg4 10. f3 Be6 11. Be3 Nc6 12. Nb5 Qb8 13. Nc5 Bc8 14. Rc1 Be7 15. Bc4 O-O 16. O-O b6 17. Nd3 Bd7 18. b4 Qb7 19. Qb3 Rac8 20. Qa2 Qb8 21. Rfd1 Nd8 22. Nc3 Be6 23. Nd5 Nxd5 24. Bxd5 Rxc1 25. Bxc1 Bf6 26. Bb2 Re8 27. Qc4 b5 28. Qb3 Qb6+ 29. Kf1 Bxd5 30. Qxd5 Ne6 31. Nxe5 Rd8 32. Nd7 Qc7 33. Bxf6 gxf6 34. Nxf6+ Kh8 35. Nd7 Qxh2 36. Re1 Qh1+ 37. Kf2 Qxg2+ 38. Kxg2 Nf4+ 39. Kf2 Nxd5 40. Ne5 1-0
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.24"]
+[Round "9.3"]
+[White "Goldin, Alexander"]
+[Black "Shabalov, Alexander"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "2541"]
+[BlackElo "2478"]
+[PlyCount "164"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 c6 4. Bg2 Bg4 5. O-O Nbd7 6. c4 e6 7. b3 Bd6 8. Bb2 Qb8 9. Nc3 O-O 10. a4 Re8 11. h3 Bxf3 12. Bxf3 dxc4 13. bxc4 e5 14. e3 Qc7 15. Bg2 Rad8 16. Qc2 h5 17. c5 Be7 18. Ne2 h4 19. g4 exd4 20. Bxd4 Nf8 21. a5 a6 22. Rfb1 Ne6 23. Rb3 Nd7 24. Rc3 Ndf8 25. Rb3 Rb8 26. Qc4 Nd7 27. Bc3 Nexc5 28. Rbb1 Ne5 29. Qa2 Bf6 30. Qc2 Qe7 31. Nd4 Ne6 32. Nf5 Qc5 33. Rc1 Rbd8 34. Nd4 Qc4 35. Qb1 Nd3 36. Rc2 Bxd4 37. Bxd4 Qb4 38. Bb6 Rd7 39. Qf1 Qb3 40. Rd2 Ne5 41. Rxd7 Nxd7 42. Rb1 Qa3 43. Ra1 Qe7 44. Bd4 Nxd4 45. exd4 Nf6 46. Qc4 Rd8 47. Rb1 Rd7 48. Qc5 Qd8 49. Qg5 Rxd4 50. Rxb7 Rd1+ 51. Bf1 Qd3 52. Rb8+ Kh7 53. Qf5+ Qxf5 54. gxf5 Nd5 55. Rc8 Nf4 56. Rxc6 Nxh3+ 57. Kg2 Nf4+ 58. Kf3 Rxf1 59. Kxf4 Rg1 60. Rc3 Ra1 61. Kg4 Rxa5 62. Rh3 Ra4+ 63. f4 f6 64. Rxh4+ Kg8 65. Rh1 a5 66. Rc1 Ra2 67. Rc8+ Kh7 68. Ra8 Ra1 69. Kg3 a4 70. Kg2 a3 71. Kg3 a2 72. Kg2 g6 73. fxg6+ Kxg6 74. Ra5 f5 75. Kh2 Kf6 76. Kg2 Ke6 77. Kh2 Kd6 78. Kg2 Kc6 79. Ra8 Kc5 80. Ra7 Kc4 81. Ra8 Kd4 82. Ra7 Ke4 0-1
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.24"]
+[Round "9.4"]
+[White "Christiansen, Larry"]
+[Black "Dlugy, Maxim"]
+[Result "0-1"]
+[ECO "D20"]
+[WhiteElo "2571"]
+[BlackElo "2514"]
+[PlyCount "308"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e5 4. Bxc4 Nc6 5. Nf3 e4 6. Nfd2 Qg5 7. g3 Nf6 8. Nc3 Qg6 9. a3 Bd6 10. Nd5 Ng4 11. Nf4 Bxf4 12. gxf4 Nf6 13. Bf1 O-O 14. h3 Be6 15. b3 Nxd4 16. exd4 e3 17. Nf3 exf2+ 18. Kxf2 Ne4+ 19. Ke3 Bxb3 20. Ne5 Qg3+ 21. Qf3 Qe1+ 22. Qe2 Qc3+ 23. Qd3 Qxa1 24. Bg2 Nc3 25. Bd2 Nd1+ 26. Ke2 Ba4 27. Qc4 Qb2 28. Qb4 a5 29. Qxb2 Nxb2 30. Rb1 Bb5+ 31. Kf3 Nc4 32. Rxb5 Nxd2+ 33. Ke3 c6 34. Rxb7 Rab8 35. Bxc6 Rxb7 36. Bxb7 Nb1 37. a4 Nc3 38. Bc6 Rd8 39. Kd3 Nd5 40. Ke4 Nc3+ 41. Kd3 Nd5 42. Ke4 Nb6 43. d5 f6 44. Nd3 Kf7 45. Kd4 Nc8 46. Nc5 Nd6 47. Nb3 g5 48. fxg5 fxg5 49. Nxa5 h5 50. Nb7 Nxb7 51. Bxb7 Rb8 52. Bc6 Rb3 53. Ke5 Rxh3 54. Kd6 g4 55. Kc7 Rd3 56. d6 Ke6 57. d7 Ke7 58. a5 g3 59. a6 Rxd7+ 60. Bxd7 g2 61. a7 g1=Q 62. a8=Q Qg3+ 63. Kb6 Kxd7 64. Qb7+ Ke6 65. Qc8+ Kf6 66. Qd8+ Kf5 67. Qd7+ Kg5 68. Qd5+ Kh6 69. Kb7 Qg7+ 70. Kc8 Qg4+ 71. Kc7 Qf4+ 72. Kd7 h4 73. Qe6+ Kh5 74. Qe8+ Kg4 75. Qg8+ Kf3 76. Qd5+ Qe4 77. Qb3+ Kg2 78. Qb2+ Kg3 79. Qc3+ Qf3 80. Qe1+ Kg4 81. Qg1+ Kh5 82. Qc5+ Kg6 83. Qd6+ Qf6 84. Qh2 Qf5+ 85. Kd6 h3 86. Kc7 Qf3 87. Qd6+ Kh5 88. Qe5+ Kg4 89. Qg7+ Kh4 90. Qh6+ Kg3 91. Qg5+ Kf2 92. Qd2+ Kf1 93. Kc8 Qf5+ 94. Kd8 Qf6+ 95. Kd7 Qe5 96. Qd1+ Kf2 97. Qd2+ Kg3 98. Qd3+ Kg4 99. Qg6+ Kf4 100. Qh6+ Kg3 101. Qg6+ Kf3 102. Qd3+ Qe3 103. Qf5+ Ke2 104. Qh5+ Ke1 105. Qh4+ Kf1 106. Qc4+ Kg2 107. Qg8+ Kf3 108. Qd5+ Qe4 109. Qb3+ Kg4 110. Qg8+ Kf4 111. Qb8+ Qe5 112. Qb4+ Kg5 113. Kc8 h2 114. Qd2+ Qf4 115. Qd8+ Kg4 116. Qg8+ Kh3 117. Qh8+ Kg3 118. Qc3+ Kf2 119. Qb2+ Kf3 120. Qc3+ Qe3 121. Qf6+ Kg4 122. Qg7+ Kh4 123. Qh8+ Kg3 124. Qg7+ Kf3 125. Qf6+ Ke2 126. Qb2+ Qd2 127. Qb5+ Ke1 128. Qb1+ Ke2 129. Qe4+ Kd1 130. Qh1+ Kc2 131. Qe4+ Kb3 132. Qb7+ Qb4 133. Qh1 Qc5+ 134. Kb7 Qe7+ 135. Kc8 Qe6+ 136. Kb7 Qd7+ 137. Kb8 Qd6+ 138. Kb7 Ka4 139. Kc8 Qe5 140. Kb7 Kb5 141. Qc6+ Kb4 142. Qh1 Qe7+ 143. Kc8 Qe6+ 144. Kb7 Qd7+ 145. Kb8 Qd6+ 146. Kb7 Qe5 147. Kc8 Kc5 148. Qc1+ Kb5 149. Qb1+ Ka5 150. Qh1 Kb6 151. Qb7+ Kc5 152. Qh1 Qe8+ 153. Kc7 Qe7+ 154. Kc8 Qe6+ 0-1
+
+[Event "2025 US Senior Championship"]
+[Site "St Louis"]
+[Date "2025.07.24"]
+[Round "9.5"]
+[White "Akopian, Vladimir"]
+[Black "Kaidanov, Gregory"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[WhiteElo "2586"]
+[BlackElo "2505"]
+[PlyCount "74"]
+[EventDate "2025.07.15"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. Bg5 d6 7. Nc3 Be7 8. Qd3 O-O 9. O-O-O Kh8 10. Kb1 Bg4 11. Bxf6 Bxf6 12. Rdf1 Bxf3 13. Qxf3 Nd4 14. Qh3 c6 15. Bd3 Qc8 16. Qxc8 Raxc8 17. Ne2 Nxe2 18. Bxe2 Bd8 19. f3 Bb6 20. Rd1 Rcd8 21. Bc4 g6 22. Rd2 Kg7 23. Rhd1 Bc7 24. a4 a5 25. Rd3 Kf6 26. Rb3 Rb8 27. Rbd3 Ke7 28. Rb3 Kd7 29. Be2 Bd8 30. Rbd3 Be7 31. c3 Kc7 32. Kc2 Ra8 33. Rf1 Rad8 34. Kb3 Kb6 35. Kc2 Kc7 36. Kb3 Kb6 37. Kc2 Kc7 1/2-1/2
+
+
+	
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chess Games PGN format. Chess Games and notation.</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/css/mobile.css">
+	<link rel="stylesheet" type="text/css" href="/css/post_css.css">
+	<link rel="stylesheet" type="text/css" href="/css/dt.css">
+
+	<link rel="stylesheet" type="text/css" href="/css/all.css">
+	<link rel="stylesheet" type="text/css" href="/css/dt_responsive.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/dt_group.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/jquery-ui.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/jquery-ui.structure.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/jquery-ui.theme.css"/>
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="International Chess Federation (FIDE)">
+	<meta property="og:title" content=" Chess Rating Calculators. Rating change, Initial Chess Rating">
+	<meta property="og:description" content="">
+	<meta property="og:url" content="">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:image" content="https://directory.fide.com/img/fide_og_1200.png">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<script type="text/javascript" src="/js/jquery-3.6.0.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui.js"></script>
+	<script type="text/javascript" src="/js/dt.js"></script>
+	<script type="text/javascript" src="/js/jquery.mark.min.js"></script>
+	
+	
+	
+</head>
+
+<body>
+<header class="header">
+	<div class="header-social"></div>
+	<div class="header-container">
+			<div class="header-logo-container">
+					<div class="header-logo">
+							<a href="https://www.fide.com">
+									<img src="/img/logo1.png" alt="">
+							</a>
+					</div>
+					<div class="header-title-container">
+							<div class="header-title">International</div>
+							<div class="header-subtitle">Chess Federation</div>
+					</div>
+			</div>
+			<div class="menu-container tabs">
+					<div class="tabs-nav main-menu">
+							<button class="tabs-btn menu-button"><a href="https://www.fide.com/news/">NEWS</a></button>
+							<button class="tabs-btn menu-button"><a href="https://ratings.fide.com">RATINGS</a></button>
+							<button class="tabs-btn menu-button"><a href="https://www.fide.com/fide-world-championship-cycle-2025-2026">CHAMPIONSHIP</a></button>
+							<button class="tabs-btn menu-button"><a href="https://calendar.fide.com/calendar.php">CALENDAR</a></button>
+							<button class="tabs-btn menu-button"><a href="https://www.fide.com/about-fide">FIDE</a></button>
+							<button class="tabs-btn menu-button"><a href="https://directory.fide.com">DIRECTORY</a></button>
+							<button class="tabs-btn menu-button"><a href="https://www.fide.com/partners/">PARTNERS</a></button>							
+							<button class="tabs-btn menu-button"  id="fide100div"><a href="https://shop.fide.com">SHOP</a></button>
+							<button class="tabs-btn menu-button"><a href="https://www.fide.com/contacts/">CONTACTS</a></button>
+					</div>
+					<div class="tabs-content nav-submenu" style="display:flex; flex-wrap:wrap;">
+							<div class="tabs-pane main-submenu" id="content-1">
+									<button class="submenu-button"><a href="https://www.fide.com/category/fide-news/">FIDE News</a></button>
+									<button class="submenu-button"><a href="https://www.fide.com/category/chess-news/">Chess news</a></button>
+							</div>
+							<div class="tabs-pane main-submenu" id="content-2">
+									<button class="submenu-button"><a href="https://ratings.fide.com/top_lists.phtml">Top</a></button>
+									<button class="submenu-button"><a href="https://ratings.fide.com/top_federations.phtml">Top Federations</a></button>
+									<button class="submenu-button"><a href="https://ratings.fide.com/rated_tournaments.phtml">Tournaments</a></button>
+									<button class="submenu-button"><a href="https://ratings.fide.com/titles_page.phtml">Titles</a></button>
+									<button class="submenu-button"><a href="https://ratings.fide.com/transfers.phtml">Transfers</a></button>
+									<button class="submenu-button"><a href="https://ratings.fide.com/calc.phtml?page=change">Calculators</a></button>
+									<button class="submenu-button"><a href="https://ratings.fide.com/download_lists.phtml">Download</a></button>
+							</div>
+							<div class="tabs-pane main-submenu" id="content-3">
+									<button class="submenu-button"><a href="https://www.fide.com/fide-circuit-2025/">FIDE Circuit</a></button>
+									<button class="submenu-button"><a href="https://www.fide.com/fide-womens-events-24-25/">Women's Events '24-'25</a></button>
+									<button class="submenu-button"><a href="https://www.fide.com/fide-world-championship-cycle-2025-2026">Open Cycle '25-'26</a></button>									
+									<button class="submenu-button"><a href="https://www.fide.com/fide-womens-world-championship-cycle-2025-2026">Women’s Cycle '25-'26</a></button>
+									<button class="submenu-button"><a href="https://www.fide.com/fide-womens-world-championship-cycle-2023-2025/">Women’s Cycle '23-'25</a></button>
+									
+									
+							</div>
+							
+							
+							
+							<div class="tabs-pane main-submenu" id="content-4">
+							
+									<button class="submenu-button" style="margin-left: 200px;"><a href="https://calendar.fide.com/calendar.php">All Tournaments</a></button>
+									
+									<button class="submenu-button"><a href="https://calendar.fide.com/majorcalendar.php?show=showYear&page=2025">Main Events</a></button>
+									
+									
+							</div>
+							
+							<div class="tabs-pane main-submenu" id="content-5">
+							
+							
+									<button class="submenu-button" style="margin-left: 200px;"><a href="https://www.fide.com/about-fide/">About FIDE</a></button>
+									<button class="submenu-button"><a href="https://handbook.fide.com/">Handbook</a></button>
+									<button class="submenu-button"><a href="https://www.fide.com/documents">Documents</a></button>
+									<button class="submenu-button"><a href="https://med.fide.com" target=_blank>Clean Sport</a></button>
+									<button class="submenu-button"><a href="https://www.fide.com/financial">Financial Reports</a></button>
+									
+							</div>
+							<div class="tabs-pane main-submenu" id="content-6">
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/list/officials">Officials</a></button>
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/list/commissions_and_committees">Commissions & Committees</a></button>
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/list/member_federations/main">Federations</a></button>
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/list/affiliated_organizations">Aff. Organizations</a></button>
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/list/affiliated_members">Aff. Members</a></button>
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/list/dignitaries/&b=1&c=5">Honourable Dignitaries</a></button>
+									<button class="submenu-button dir_button"><a href="https://directory.fide.com/orgchart.phtml">Chart</a></button>
+							</div>
+							
+							<div class="tabs-pane main-submenu" id="content-7">
+									<button class="submenu-button invisible"><a href="#">PARNTERS</a></button>
+							</div>
+							<div class="tabs-pane main-submenu" id="content-9">
+									<button class="submenu-button invisible"><a href="#">FIDE100</a></button>
+							</div>
+							<div class="tabs-pane main-submenu" id="content-10">
+									<button class="submenu-button invisible"><a href="#">CONTACTS</a></button>
+							</div>
+							
+					</div>
+			</div>
+					<div class="mobile-menu-container">
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><strong>MAIN/NEWS</strong></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+									<p><a href="https://www.fide.com/news/">All News</a></p>
+									<p><a href="https://www.fide.com/category/fide-news/">FIDE News</a></p>
+									<p><a href="https://www.fide.com/category/chess-news/">Chess News</a></p>
+							</div>
+					</div>
+	
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><strong>RATINGS</strong></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+									<p><a href="https://ratings.fide.com/top_lists.phtml">Top</a></p>
+									<p><a href="https://ratings.fide.com/top_federations.phtml">Top Federations</a></p>
+							        <p><a href="https://ratings.fide.com/index.phtml">Main Page / Search</a></p>
+									<p><a href="https://ratings.fide.com/rated_tournaments.phtml">Tournaments</a></p>
+									<p><a href="https://ratings.fide.com/titles_page.phtml">Titles</a></p>
+									<p><a href="https://ratings.fide.com/transfers.phtml">Transfers</a></p>
+									<p><a href="https://ratings.fide.com/calc.phtml?page=change">Calculators</a></p>
+									<p><a href="https://ratings.fide.com/download_lists.phtml">Download</a></p>
+							</div>
+					</div>
+						<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><strong>CHAMPIONSHIP</strong></h2>
+							</button>
+							
+							
+							<div class="mobile-submenu accordeon-body">
+									<p><a href="https://www.fide.com/fide-circuit-2025/">FIDE Circuit</a></p>
+									<p><a href="https://www.fide.com/fide-womens-events-24-25/">Women's Events '24-'25</a></p>
+									<p><a href="https://www.fide.com/fide-world-championship-cycle-2025-2026">Open Cycle 2025-2026</a></p>
+									<p><a href="https://www.fide.com/fide-womens-world-championship-cycle-2025-2026">Women’s Cycle 2025-2026</a></p>
+									<p><a href="https://www.fide.com/fide-womens-world-championship-cycle-2023-2025">Women’s Cycle 2023-2025</a></p>
+									
+							</div>
+						
+					</div>
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><strong>CALENDAR</strong></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+									<p><a href="https://calendar.fide.com/calendar.php">All Tournaments</a></p>
+									<p><a href="https://calendar.fide.com/majorcalendar.php?show=showYear&page=2025">Main Events</a></p>
+							</div>
+					</div>
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><strong>FIDE</strong></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+									<p><a href="https://www.fide.com/about/">About FIDE</a></p>
+									<p><a href="https://handbook.fide.com/">Handbook</a></p>
+									<p><a href="https://www.fide.com/documents">Documents</a></p>
+									<p><a href="https://med.fide.com" target=_blank>Clean Sport</a></p>
+									<p><a href="https://www.fide.com/financial">Financial Reports</a></p>
+									
+							</div>
+					</div>
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><strong>DIRECTORY</strong></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+									<p><a href="https://directory.fide.com/list/officials">Officials</a></p>
+									<p><a href="https://directory.fide.com/list/commissions_and_committees">Commissions & Committees</a></p>
+									<p><a href="https://directory.fide.com/list/member_federations/main">Federations</a></p>
+								    <p><a href="https://directory.fide.com/list/affiliated_organizations">Affiliated Organizations</a></p>
+									<p><a href="https://directory.fide.com/list/affiliated_members">Affiliated Members</a></p>
+									<p><a href="https://directory.fide.com/list/dignitaries">Honourable Dignitaries</a></p>
+									<p><a href="https://directory.fide.com/orgchart.phtml">Chart</a></p>
+								
+									
+							</div>
+					</div>
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><a href="https://www.fide.com/partners/">PARTNERS</a></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+							</div>
+					</div>
+		
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><a href="https://shop.fide.com">SHOP</a></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+							</div>
+					</div>
+					<div class="mobile-accordeon accordeon">
+							<button class="mobile-menu accordeon-title">
+									<h2><a href="https://www.fide.com/contacts/">CONTACTS</a></h2>
+							</button>
+							<div class="mobile-submenu accordeon-body">
+							</div>
+					</div>
+			<!--mobile-menu-container-->
+	</div>
+			<div class="header-search-container">
+					<div class="header-search" style="display:none;">
+							
+					</div>
+					<div class="header-account" style="display:none;">
+							<a href=https://portal.fide.com><img src="/img/user.svg" alt=""></a>
+					</div>
+			</div>
+			<div class="menu-burger">
+					<span></span>
+			</div>
+	</div>
+<aside class="social">
+	<div class="social-aside">
+			<a href="https://twitter.com/FIDE_chess" target=_blank><img src="/img/twitter-top.svg" alt="twitter"></a>
+	</div>
+	<div class="social-aside">
+			<a href="https://www.instagram.com/fide_chess/" target=_blank><img src="/img/instagram-top.svg" alt="instagram"></a>
+	</div>
+	<div class="social-aside">
+			<a href="https://www.facebook.com/ChessFIDE/" target=_blank><img src="/img/fb-top.svg" alt="facebook"></a>
+	</div>
+	<div class="social-aside">
+			<a href="https://www.tiktok.com/@fide_chess" target=_blank><img src="/img/tiktok_icon.svg " alt="tiktok"></a>
+	</div>
+	<div class="social-aside">
+			<a href="https://www.linkedin.com/company/48892238" target=_blank><img src="/img/linkedin-top.svg" alt="linkedin"></a>
+	</div>
+	<div class="social-aside youtu">
+			<a href="https://www.youtube.com/channel/UC9B47GnzCRFHTT1BIBWvStQ" target=_blank><img src="/img/youtube-top.svg" alt="youtube"></a>
+	</div>
+	<div class="social-aside">
+			<a href="https://www.twitch.tv/fide_chess" target=_blank><img src="/img/twitch-top.svg" alt="twitch"></a>
+	</div>
+</aside>
+</header>
+<!-- Menu -->
+
+<style>
+.social-aside img
+{
+    height: 18px;
+}
+.youtu img
+{
+    height: 15px !important;
+}
+
+	.header-title {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+}
+.dir-pattern-three, .dir-pattern-two, .dir-pattern-four
+{
+top: 0;
+display:none;
+}
+.directory
+{
+	margin-top: 40px;
+}
+
+	
+	.social
+	{
+	margin:0;
+	}
+	.menu-button {
+	border: none;
+	padding: 10px 8px 62px 8px;
+	border-radius: 7px 7px 0 0;
+	background-color: #EAEEF3;
+	height: 91px;
+	}
+	.main-menu a, .main-menu a:visited
+	{
+		color:#24305E;
+	}
+	.main-menu .tabs-btn:hover
+	{
+	background-color:#374785;
+	transition:
+    
+    background-color 1s,
+	background 1s;
+	
+	}
+	
+	.main-menu > .tabs-btn-active a {
+	color: #fff;
+	}
+	.invisible {
+		display:none;
+	}
+	.header-container
+	{
+			max-width: 1440px;
+			margin: 0 auto;
+			width: 100%;
+	}
+	.mobile-menu-container {
+			display: none;
+			z-index: 10000 !important;
+	}
+	.main-submenu button:hover
+	{
+	background-color: #24305E !important;
+	}
+	.submenu-button a:visited
+	{
+	color:#24305E;
+	}
+
+	
+	@media screen and (max-width: 1024px) {
+	.menu-container {
+			display: none;
+	}
+	.mobile-menu-container {
+			display: block;
+			position: absolute;
+			top: 137px;
+			left: 0;
+			background: rgb(245, 246, 246);
+			box-shadow: #ccc;
+			width: 100%;
+			box-shadow: 0 4px 2px -2px rgba(36, 36, 36, 0.17);
+			left: -200%;
+			transition: all 0.4s ease;
+			z-index: 10000 !important;
+	}
+	.mobile-menu-container.open-menu {
+			left: 0;
+	}
+	.menu-burger {
+			position: absolute;
+			right: 10px;
+			top: 69px;
+			width: 24px;
+			height: 19px;
+			display: block;
+			margin-left: auto;
+			margin-bottom: 20px;
+			cursor: pointer;
+	}
+	.menu-burger span, .menu-burger:after, .menu-burger:before{
+			height: 3px;
+			width: 100%;
+			position: absolute;
+			background: #24305E;
+			margin: 0 auto;
+			border-radius: 1px;
+	}
+	.menu-burger span{
+			top: 21px;
+	}
+	.menu-burger:after, .menu-burger:before{
+			content: '';
+	}
+	.menu-burger:after{
+			bottom: 3px;
+			border-radius: 1px;
+	}
+	.menu-burger:before{
+			top: 5px;
+			border-radius: 1px;
+	}
+	.menu-burger.open-menu span {
+			transform: rotate(38deg);
+			top: 8px;
+			transition: 0.4s;
+	}
+	.menu-burger.open-menu:before {
+			opacity:0; 
+			transition: 0.5s; 
+	}
+	.menu-burger.open-menu:after {
+			transform: rotate(-38deg);
+			bottom: 8px;
+			transition: 0.4s;
+	}
+	.social {
+			position: absolute;
+			top: 10px;
+			left: 159px;
+			width: 400px;
+			justify-content: space-between;
+	}
+	.container {
+			width: 688px;
+	}
+	.page-title {
+			font-weight: 400;
+			font-size: 36px;
+			line-height: 42px;
+	}
+	.menu-button {
+			padding: 0px;
+			height: auto;
+	}
+	.nav-submenu {
+			margin-top: 0px;
+	}
+	.main-submenu button {
+			padding: 0px;
+			margin-right: 0px;
+	}
+	.main-menu a {
+			display: block;
+	}
+	.tabs-pane-show {
+			display: inline-grid;
+	}
+	.mobile-menu {
+			list-style-type: none;
+			text-align: center;
+	}
+	.mobile-submenu {
+			height: 0;
+			overflow: hidden;
+			transition: height .4s ease-in-out;
+			text-align: center;
+	}
+	.mobile-accordeon button {
+			padding: 10px;
+			border: none;
+			cursor: pointer;
+			width: 100%;
+			background-color: #EAEEF3;
+			line-height: 1;
+	}
+	.mobile-accordeon button:focus
+	{
+		background-color: #868CAD;
+		color: #fff;
+	}
+	.mobile-menu.active, .mobile-menu.active:focus  {
+			background-color: #868CAD;
+	}
+	.mobile-menu.active h2 {
+			background-color: #868CAD;
+			color: #fff;
+	}
+	.mobile-menu.active h2 a {
+			color: #fff;
+	}
+	.mobile-menu h2, .mobile-menu h2 a {
+			font-style: normal;
+			font-weight: 400;
+			font-size: 16px;
+			line-height: 19px;
+			align-items: center;
+			text-transform: uppercase;
+			text-decoration: none;
+			display:inline;
+	}
+	.mobile-submenu p {
+			padding: 7px 0px;
+	}
+	.mobile-submenu p a {
+			font-style: normal;
+			font-weight: 400;
+			font-size: 16px;
+			line-height: 140%;
+			color: #374785;
+			text-decoration: none;
+	}
+	}
+	@media screen and (max-width: 576px) {
+							.header-social, .social {
+			display: none;
+	}
+	.header-search-container, .menu-burger {
+			top: 40px;
+	}
+	
+	}
+	@media screen and (max-width: 375px) {
+							.header-search-container {
+			display: none;
+	}
+	.menu-burger {
+			right: 15px;
+	}
+	}
+	
+
+
+.main-submenu button {
+	margin-right: 8px;
+	padding: 10px 8px;
+}
+.submenu-button.dir_button
+{
+	margin: 1px !important;
+	padding: 10px 4px;
+}
+.tabs-btn-active, .tabs-btn-active:focus, .tabs-btn-active:active
+{
+	
+	background-color: #374785;
+}
+.header-search-container img:last-child {
+ 
+  margin-right: 5px;
+}
+.header
+{
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+}
+
+@media screen and (max-width: 1300px) {
+
+.header-title {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+}
+.header-subtitle {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+.menu-container {
+  margin-left: 15px;
+  
+}
+.header-title-container {
+padding-left: 10px;
+}
+}
+
+@media screen and (max-width: 1576px) {
+	.header-logo-container
+	{
+	margin-left: 10px;
+	}
+
+
+}
+@media screen and (max-width: 1576px) {
+.social {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	align-items: center;
+	top: 40px;
+	right: 40px;
+}
+ .social-aside {
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 20px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+.header
+{
+	height: 174px;
+}
+.header-title
+{
+	padding-top:0;
+	paddint-left: 8px;
+	
+}
+.container {
+	width: 944px;
+	margin: 0 auto;
+}
+.page-title {
+	font-size: 36px;
+	line-height: 42px;
+}
+.none {
+	display: none;
+}
+/*HEADER*/
+.header {
+ margin-bottom: 8px;
+}
+.header-container {
+	padding-top: 20px;
+	display: block;
+}
+.header-logo-container {
+	padding-bottom: 10px;
+	padding-left: 10px;
+	
+}
+.header-logo-container img {
+	width: 70px;
+}
+.header-title-container {
+	padding-left: 10px;
+}
+.header-title {
+	font-size: 14px;
+	line-height: 16px;
+	padding-left: 10px;
+}
+.header-subtitle {
+	font-size: 14px;
+	line-height: 16px;
+	padding-left: 10px;
+}
+.menu-container {
+	margin: 0px;
+	padding-left: 4px;
+}
+.header-search-container {
+	position: absolute;
+	top: 85px;
+	right: 40px;
+}
+.submenu-button.dir_button
+{
+	margin: 1px !important;
+	padding: 10px 4px;
+}
+.main-submenu button {
+	margin-right: 3px;
+}
+
+
+.social {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	align-items: center;
+	top: 40px;
+	right: 40px;
+}
+.social-aside {
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 20px;
+}
+.header-title, .header-subtitle
+	{
+			margin-top: 0;
+			margin-bottom: 0;
+	}
+}
+
+
+@media screen and (max-width: 1024px) {
+	 .header
+	{
+			height: 90px;
+			padding-left: 5px;
+	}
+	.header-social, .social {
+			display: none;
+	}
+	.header-search-container, .menu-burger {
+			top: 40px;
+	}
+	.header-search-container {
+	position: absolute;
+	top: 40px;
+	right: 60px;
+	}
+	.header-social {
+	display: none;
+	height: 40px;
+	background-color: #fff;
+	}
+	.header-title, .header-subtitle
+	{
+			margin-top: 0;
+			margin-bottom: 0;
+	}
+	.header-logo-container {
+	padding-bottom: 10px;
+	padding-top: 15px;
+	}
+	
+	.social {
+display: -webkit-box;
+display: -webkit-flex;
+display: -ms-flexbox;
+display: flex;
+align-items: center;
+left:0;
+top: 5px;
+padding-bottom: 3px;
+border-bottom: 1px solid #C6CDDD;
+width: 100%;
+justify-content: center;
+
+
+	
+	}
+	.mobile-menu-container {
+	top: 90px;
+	transition: all 0.4s ease;
+	border-top: 1px solid #374785;
+	z-index: 200;
+	
+	}
+	
+}
+
+@media screen and (max-width: 375px){
+	.header {
+	height: 90px;
+	padding-left: 5px;
+	}
+	
+	.mobile-menu-container {
+	top: 90px;
+	transition: all 0.4s ease;
+	border-top: 1px solid #374785;
+	
+	}
+	.header-search-container {
+	display: flex;
+	top: 40px;
+	right: 60px;
+	}
+  
+	}
+
+
+[type="button"], [type="submit"], button
+{
+	 background-color: #374785;
+}
+.activeurll {
+  background-color: #24305E !important;
+  color: #ffffff !important;
+}
+.activeurll a {
+  color: #ffffff !important;
+}
+
+.main-submenu a:hover
+{
+text-decoration: none;
+font-weight: normal;
+}
+.mobile-accordeon button:hover
+{
+	color: red;
+	background-color: #868CAD;
+}
+ .mobile-menu.active {
+    background-color: #868CAD;
+  }
+
+	#fide100div
+	{	
+	color:red;
+	border: 0;
+	
+   
+	}
+	#fide100div:hover
+	{
+	z-index: 1000;
+	}
+	
+.calendar-tabs-buttons {
+  z-index: 90;
+}
+.elementor-245 .elementor-element.elementor-element-df66bb2
+{
+	box-shadow:none;
+}
+
+</style>
+
+<script>
+let burger = document.querySelector('.menu-burger');
+let menu = document.querySelector('.mobile-menu-container');
+
+burger.onclick = function() {
+	
+menu.classList.toggle('open-menu');
+burger.classList.toggle('open-menu');
+};
+
+</script>    
+<script>
+class ItcTabs {
+  constructor(target, config) {
+    const defaultConfig = {};
+    this._config = Object.assign(defaultConfig, config);
+    this._elTabs =
+      typeof target === "string" ? document.querySelector(target) : target;
+    this._elButtons = this._elTabs.querySelectorAll(".tabs-btn");
+    this._elPanes = this._elTabs.querySelectorAll(".tabs-pane");
+    this._eventShow = new Event("tab.itc.change");
+    this._init();
+    this._events();
+  }
+
+  _init() {
+    this._elTabs.setAttribute("role", "tablist");
+    this._elButtons.forEach((el, index) => {
+      el.dataset.index = index;
+      el.setAttribute("role", "tab");
+      this._elPanes[index].setAttribute("role", "tabpanel");
+      el.classList.add("tabs-btn-not-active"); // ���������� ������ .tabs-btn-not-active
+    });
+  }
+
+  show(elLinkTarget) {
+    const elPaneTarget = this._elPanes[elLinkTarget.dataset.index];
+    const elLinkActive = this._elTabs.querySelector(".tabs-btn-active");
+    const elPaneShow = this._elTabs.querySelector(".tabs-pane-show");
+    if (elLinkTarget === elLinkActive) {
+      return;
+    }
+    elLinkActive ? elLinkActive.classList.remove("tabs-btn-active") : null;
+    elLinkActive ? elLinkActive.classList.add("tabs-btn-not-active") : null; // ���������� ������ .tabs-btn-not-active
+		elPaneShow ? elPaneShow.style.display = "none" : null;
+    elPaneShow ? elPaneShow.classList.remove("tabs-pane-show") : null;
+    elLinkTarget.classList.add("tabs-btn-active");
+    elLinkTarget.classList.remove("tabs-btn-not-active"); // �������� ������ .tabs-btn-not-active
+    elPaneTarget.classList.add("tabs-pane-show");
+    this._elTabs.dispatchEvent(this._eventShow);
+    elLinkTarget.focus();
+  }
+
+  showByIndex(index) {
+    const elLinkTarget = this._elButtons[index];
+    elLinkTarget ? this.show(elLinkTarget) : null;
+  }
+
+  _events() {
+		this._elTabs.addEventListener("click", (e) => {
+  const target = e.target.closest(".tabs-btn");
+  if (target) {
+    const link = target.querySelector("a");
+    if (link) {
+      const href = link.getAttribute("href");
+      if (href) {
+        e.preventDefault();
+        window.location.href = href;
+      }
+    }
+  }
+});
+
+  }
+}
+
+const accordionToggle = () => {
+  const chItems = document.querySelectorAll(".tabs-pane.main-submenu");
+
+  chItems.forEach((item) => {
+    const chButton = item.querySelector("button.submenu-button");
+    const chDesc = item;
+
+    const toggleAccordion = () => {
+      chItems.forEach((item) => {
+        const chRemoveButton = item.querySelector("button.submenu-button");
+        const chRemoveDesc = item;
+
+        if (chRemoveDesc !== chDesc) {
+          chRemoveDesc.style.display = "none"; // Set display: none
+          chRemoveDesc.classList.remove("tabs-pane-show");
+					chRemoveDesc.classList.add("tabs-pane-not-show");
+          chRemoveButton.classList.remove("tabs-btn-active");
+          chRemoveButton.classList.add("tabs-btn-not-active");
+        }
+      });
+
+      chDesc.classList.toggle("tabs-pane-show");
+      chButton.classList.toggle("tabs-btn-active");
+      chButton.classList.remove("tabs-btn-not-active");
+    };
+
+    chButton.addEventListener("click", toggleAccordion);
+  });
+};
+
+const tabs = new ItcTabs(".tabs");
+accordionToggle();
+const accordeon = () => {
+  const chItems = document.querySelectorAll(".accordeon");
+
+  chItems.forEach((item) => {
+    const chButton = item.querySelector(".accordeon-title");
+    const chDesc = item.querySelector(".accordeon-body");
+
+    chButton.addEventListener("click", () => {
+      chItems.forEach((item) => {
+        const chRemoveButton = item.querySelector(".accordeon-title");
+        const chRemoveDesc = item.querySelector(
+          ".accordeon-body"
+        );
+
+        if (chRemoveDesc !== chDesc) {
+          chRemoveDesc.classList.remove("open");
+          chRemoveDesc.style.height = 0;
+          chRemoveButton.classList.remove("active");
+        }
+      });
+
+      if (chDesc.classList.contains("open")) {
+        chDesc.style.height = 0;
+      } else {
+        chDesc.style.height = chDesc.scrollHeight + "px";
+      }
+
+      chDesc.classList.toggle("open");
+      chButton.classList.toggle("active");
+    });
+  });
+};
+
+accordeon();
+
+document.addEventListener('DOMContentLoaded', function() {
+  var currentURL = window.location.href;
+  var substituteURL = window.location.href;
+  
+
+  // ������� ������� � ������� menu-container
+  var menuContainer = document.querySelector('.tabs-content');
+
+	var menuContainerLvlOne = document.querySelector('.tabs-nav');
+  // �������� ��� ������ ������ menuContainer
+  var links = menuContainer.querySelectorAll('a');
+	var linksLvlOne = menuContainerLvlOne.querySelectorAll('a');
+
+
+	for (var i = 0; i <linksLvlOne.length; i++) {
+		var linkLvlOne = linksLvlOne[i];
+		var href = linkLvlOne.getAttribute('href');
+		
+		//custom links
+		  if (href.includes("https://ratings.fide.com") & substituteURL.includes("ratings2.fide.com.test"))
+  
+			{
+				var currentURL = "https://ratings.fide.com";
+				var href = "ratings.fide.com";
+			}
+		 
+
+		
+		if (currentURL.includes(href)){
+		
+		
+			var parent = linkLvlOne.parentElement;
+			
+			parent.classList.add('tabs-btn-active');
+			parent.classList.remove('tabs-btn-not-active');
+			var dataIndex = parent.getAttribute('data-index');
+			var newId = 'content-' + (parseInt(dataIndex, 10) + 1);
+
+
+// ������� ������� � ����� ��������������� � ��������� ����������� ��������
+var element = document.getElementById(newId);
+if (element) {
+  element.classList.add('tabs-pane-show');
+}
+
+		}
+		
+	
+		
+	}
+  // ���������� ������ � ��������� ����������� ��������
+  for (var i = 0; i < links.length; i++) {
+    var link = links[i];
+    var href = link.getAttribute('href');
+
+    // ���������, �������� �� ������� URL ������ ����� ������
+    if (currentURL.includes(href)) {
+      // ������� ������������ ������� ������
+      var parentParent = link.parentElement.parentElement;
+			var parent = link.parentElement;
+
+      // ������������� display: block ��� ������������� �������� ������
+			parent.classList.add('activeurll');
+      parentParent.style.display = 'block';
+      parentParent.classList.add('activeurl');
+      parentParent.classList.add('tabs-pane-show');
+
+      var myid = parentParent.id;
+			
+      var trimmedId = myid.replace('content-', '');
+      var newId = parseInt(trimmedId, 10) - 1;
+
+      // ������� ������� � ����� ��������������� � ��������� ����������� ��������
+			
+      var element = menuContainerLvlOne.querySelector('[data-index="' + newId + '"]');
+			
+      if (element) {
+        element.classList.add('tabs-btn-active');
+        element.classList.remove('tabs-btn-not-active');
+      }
+    }
+  }
+
+  // ��������� ���������� tabsPane
+  var tabsPane = document.querySelector('.tabs-pane-show');
+
+  // ������� ��� ���������� ���������� tabsPane
+  function updateTabsPane() {
+    tabsPane = document.querySelector('.tabs-pane-show');
+  }
+
+  const buttons = document.querySelectorAll('.tabs-btn.menu-button');
+  let activeSubmenu = null;
+
+  buttons.forEach((button, index) => {
+    const submenu = document.getElementById(`content-${index + 1}`);
+
+    button.addEventListener('mouseover', () => {
+      if (button.classList.contains('tabs-btn-not-active')){
+        submenu.style.display = 'block';
+				updateTabsPane()
+        tabsPane.style.display = 'none';
+      }
+			if (button.classList.contains('tabs-btn-active')){
+				tabsPane.style.display = 'block';
+				// submenu.style.display= 'none';
+			}
+    });
+
+    button.addEventListener('mouseleave', () => {
+      if (!button.classList.contains('tabs-btn-active')) {
+        submenu.style.display = 'none';
+				updateTabsPane()
+        if (tabsPane) {
+          tabsPane.style.display = 'block';
+        }
+      }
+			if (button.classList.contains('tabs-btn-active')){
+				tabsPane.style.display = 'block';
+			}
+    });
+
+    submenu.addEventListener('mouseenter', () => {
+      if (button.classList.contains('tabs-btn-not-active')){
+        submenu.style.display = 'block';
+				updateTabsPane()
+        tabsPane.style.display = 'none';
+      }
+			if (button.classList.contains('tabs-btn-active')){
+				tabsPane.style.display = 'block';
+				// submenu.style.display= 'none';
+			}
+    });
+
+    submenu.addEventListener('mouseleave', () => {
+      submenu.style.display = 'none';
+			updateTabsPane()
+			tabsPane.style.display = 'block';
+    });
+  });
+
+  // ��������� ��������� ��� ���������� ���������� tabsPane
+  menuContainer.addEventListener('transitionend', updateTabsPane);
+  menuContainer.addEventListener('animationend', updateTabsPane);
+});
+
+
+
+</script>﻿<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0TSTM17GEX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0TSTM17GEX');
+</script>
+<link rel="stylesheet" type="text/css" href="/css/rtng_css.css"/>
+<style>
+
+
+</style>
+
+    <div class="dir-pattern">
+        <img src="/img/dir-pattern-1.png" alt="">
+    </div>
+    <div class="dir-pattern-two">
+        <img src="/img/dir-pattern-2.png" alt="">
+    </div>
+    <div class="dir-pattern-four">
+        <img src="/img/dir-pattern-4.png" alt="">
+    </div>
+    <div class="dir-pattern-three">
+        <img src="/img/dir-pattern-3.png" alt="">
+    </div>
+    <div class="dir-pattern-five">
+        <img src="/img/dir-pattern-5.png" alt="">
+    </div>
+	<section class="directory">
+    <div class="directory-container container">
+	<h1 class="page-title">PGN Files</h1>
+		<div class="tmnt_name1">
+					</div>
+		
+	</div>
+	</section>
+	<footer class="footer">
+        <div class="footer-top">
+            <div class="footer-image">
+                <img src="/img/footer-queen.png" alt="">
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="footer-container container1">
+                <div class="footer-logo-container">
+                    <div class="footer-logo">
+                        <a href="/"><img src="/img/logo1.png" alt=""></a>
+                    </div>
+                    <div class="header-title-container footer-title-container">
+                        <h2 class="header-title footer-title">International</h2>
+                        <h2 class="header-subtitle footer-subtitle">Chess Federation</h2>
+                    </div>
+                    <!--footer-logo-container-->
+                </div>
+                <div class="footer-menu-container">
+                    <div class="footer-menu">
+                        <ul class="footmenu">
+                            <a href="https://www.fide.com/"><li>HOME</li></a>
+                            <a href="https://www.fide.com/news"><li>NEWS</li></a>
+                            <a href="https://ratings.fide.com/"><li>RATINGS</li></a>
+                            <a href="https://www.fide.com/fide-world-championship-cycle-2025-2026"><li>CHAMPIONSHIP</li></a>
+                            <a href="https://calendar.fide.com/"><li>CALENDAR</li></a>
+                            <a href="https://www.fide.com/fide/about-fide"><li>FIDE</li></a>
+                            <a href="https://med.fide.com" target=_blank><li>Clean Sport</li></a>
+							<a href="https://www.fide.com/partners"><li>PARTNERS</li></a>							
+							<a href="https://shop.fide.com/" target=_blank><li>SHOP</li></a>
+							<a href="https://www.fide.com/contacts"><li>CONTACTS</li></a>
+							<a href="https://old.fide.com/"><li>ARCHIVE</li></a>
+							<a href="https://www.fide.com/privacy"><li>PRIVACY POLICY</li></a>
+							
+							
+                        </ul>
+                    </div>
+                   
+                    <div class="footer-copyright">
+                        <p>© 2025 FIDE International Chess Federation. All Rights Reserved. No part of this site may be reproduced, stored in a retrieval system or transmitted in any way or by any means (including photocopying, recording or storing it in any medium by electronic means), without the written permission of FIDE International Chess Federation.</p>
+                    </div>
+                    <!--footer-menu-container-->
+                </div>
+                <div class="footer-social">
+                    <div class="footer-social-button">
+                        <a href="https://www.twitch.tv/fide_chess">
+                            <img src="/img/footer-twitch.svg" alt="">
+                        </a>
+                    </div>
+                    <div class="footer-social-button">
+                        <a href="https://twitter.com/FIDE_chess">
+                            <img src="/img/twitterx_footer.svg" alt="twitter">
+                        </a>    
+                    </div>
+                    <div class="footer-social-button">
+                        <a href="https://www.instagram.com/fide_chess/">
+                            <img src="/img/footer-instagram.svg" alt="instagram">
+                        </a>
+                    </div>
+                    <div class="footer-social-button">
+                        <a href="https://www.facebook.com/ChessFIDE/">
+                            <img src="/img/footer-facebook.svg" alt="facebook">
+                        </a>
+                    </div>
+                    <div class="footer-social-button youtube_logo">
+                        <a href="https://www.youtube.com/channel/UC9B47GnzCRFHTT1BIBWvStQ">
+                            <img src="/img/footer-youtube.svg" alt="youtube">
+                        </a>
+                    </div>
+                    <div class="footer-social-button">
+                        <a href="">
+                            <img src="/img/footer-twitch.svg" alt="twitch">
+                        </a>
+                    </div>
+                    <div class="footer-social-button">
+                        <a href="https://www.tiktok.com/@fide_chess">
+                            <img src="/img/tiktok_footer.svg" alt="tiktok">
+                        </a>
+                    </div>
+                    <div class="footer-social-button">
+                        <a href="https://www.linkedin.com/company/48892238">
+                            <img src="/img/footer-linkedin.svg" alt="linkedin">
+                        </a>
+                    </div>
+                    <!--footer-social-->
+                </div>
+                <!--footer-container-->
+            </div>
+        </div>
+    
+        <div class="up-button-container">
+            <a href="#">
+                <img src="/img/up-button.png" alt="">
+            </a>
+        </div>
+    </footer>
+	<style>
+
+.container1
+{
+	max-width: 1440px;
+	padding: 10px;
+	margin: auto;
+}
+.footmenu a, .footmenu a:visited, .footmenu a:active, .footmenu a:hover
+{
+  font-family: "Roboto", Sans-serif;
+  font-size: 14px;
+  font-weight: 400;	
+  text-decoration: none;
+  color:#24305e;
+}
+.footer
+{
+	margin-top: 0px;
+	width: 100vw;
+        max-width: 100%;
+}
+.footer-menu ul
+{
+	flex-direction: row;
+    flex-wrap: wrap;
+	gap: 10px;
+	justify-content: space-evenly;
+}
+
+.footer-logo-container {
+  max-width: 420px;
+  width: 20%;
+}
+
+.footer-image {
+  position: absolute;
+  right: 140px;
+  bottom: 60px;
+  z-index: 1;
+}
+
+.footer-social-button img {
+  padding: 14px;
+  height: 50px;
+}
+.youtube_logo img
+{
+    width: 50px !important;
+}
+
+.up-button-container a {
+    display: inline-block;
+    position: absolute;
+    right: 50px;
+    bottom: 17px;
+    width: 80px;
+    height: 80px;
+    z-index: 300;
+}
+
+.up-button-container img {
+    position: absolute;
+    z-index: 300;
+    bottom: 0px;
+    right: 0px;
+}
+
+@media screen and (max-width: 1024px) {
+.container1 {
+	width:100%;
+	margin: 0 auto;
+}
+
+ .header-title-container {
+    padding-left: 8px;
+  }
+  .footer-social {
+    padding-left: 0px;
+    }
+    .footer-social-button:first-child {
+    display: none;
+}
+}
+@media screen and (min-width: 575px) and (max-width: 1024px) {
+  .footer-menu-container {
+    width: 70%;
+    padding-left: 10px;
+  }
+  .footer-image {
+    left: 15%;
+    bottom: 40%;
+  }
+   .footer-title-container {
+    padding-left: 0px;
+    padding-top: 0px;
+    
+    text-align: left;
+  }
+   .footer-copyright p {
+    padding-top: 10px;
+    line-height: 14px;
+	font-size: 12px;
+  }
+   .footer-social{
+    justify-content:left;
+    width: 100%;
+    }
+
+  .footer-social-button img {
+    padding: 16px;
+  }
+  .footer-logo {
+    padding: 0px 0px 10px 10px;
+}
+.up-button-container a {
+    right: 20px;
+    bottom: 56px;
+}
+}
+
+@media screen and (max-width: 574px) {
+    
+.header-title, .header-subtitle {
+    padding-left: 0px;
+    }  
+  .footer-menu-container {
+    width: 75%;
+    align-items: start;
+	padding-left: 0;
+  }
+   .footer-copyright {
+    width: 99%;
+    margin-left: 0;
+  }
+  .footer-image {
+    top: 3%;
+    left: 40%;
+  }
+  .footer-image img {
+        width: 60px;
+        margin-left: 150%;
+    }
+    .footer-social{
+    justify-content: center;
+    width: 100%;
+    }
+  .footer-social-button img {
+    padding: 8px;
+    width: 38px;
+  }
+
+.footer-menu ul
+{
+	flex-direction: row;
+    flex-wrap: wrap;
+	padding-left:0;
+}
+
+.footer-title-container {
+    padding-left: 0px;
+    padding-top: 0px;
+    
+    text-align: left;
+  }
+
+.footer-menu {
+  display: block;
+  width: 100%;
+  padding-top: 20px;
+  }
+.footer-logo-container img
+	{
+		margin:auto;
+	}
+	
+.footer-title-container {
+    
+    width: 100%;
+  }
+.footer-subtitle {
+	width: 100%;
+	}
+.footer-logo-container {
+  padding-top: 15px;
+	width: 20%;
+	}
+.footer-bottom {
+    padding-bottom: 10px;
+	padding-top: 10px;
+  }
+
+.footer-logo-container {
+  
+	width: 100%;
+	}
+.footmenu a li {
+    padding-top: 10px;
+  }
+.footer-menu ul
+{
+	flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+.footer-menu-container {
+    width: 100%;
+    align-items: start;
+	padding-left: 0;
+	
+  }
+.footer-title-container {
+    padding-left: 0px;
+    padding-top: 0px;
+    
+    text-align: center;
+  }
+.up-button-container a {
+    right: 20px;
+    bottom: 807px;
+    width: 50px;
+    height: 50px;
+}
+
+}
+	</style> 
+
+</body>
+</html>
