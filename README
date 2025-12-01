@@ -1,0 +1,5 @@
+This directory contains chess-related stuff such as opening books, pgn files, and chess programs.
+
+For the engines to run, the command sudo chmod -R 755 /home needs to be invoked so the php script has the necessary permissions.
+
+The files on this server are backed up every hour, feel free to download these.
