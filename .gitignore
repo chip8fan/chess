@@ -1,2 +1,4 @@
 .DS_Store
 chess.zip
+lichess.py
+__pycache__
